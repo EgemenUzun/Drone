@@ -1,40 +1,46 @@
 #include <Arduino.h>
 #include "reciver.hpp"
-
-ReciverLib myReciver;
+#include "engine.hpp"
+ReciverLib reciver;
+Engine engine;
 void setup() {
   Serial.begin(9600);
-  pinMode(myReciver.channel1_port, INPUT);
-  pinMode(myReciver.channel2_port, INPUT);
-  pinMode(myReciver.channel3_port, INPUT);
-  pinMode(myReciver.channel4_port, INPUT);
-  pinMode(myReciver.channel5_port, INPUT);
-  pinMode(myReciver.channel6_port, INPUT);
+  pinMode(reciver.channel1_port, INPUT);
+  pinMode(reciver.channel2_port, INPUT);
+  pinMode(reciver.channel3_port, INPUT);
+  pinMode(reciver.channel4_port, INPUT);
+  pinMode(reciver.channel5_port, INPUT);
+  pinMode(reciver.channel6_port, INPUT);
+  reciver.initializeReciver();
+  engine.intializeEngine();
 }
 
 void loop() {
   // put your main code here, to run repeatedly:
   int16_t channelValues[6] = {
-    pulseIn(myReciver.channel1_port, HIGH),
-    pulseIn(myReciver.channel2_port, HIGH),
-    pulseIn(myReciver.channel3_port, HIGH),
-    pulseIn(myReciver.channel4_port, HIGH),
-    pulseIn(myReciver.channel5_port, HIGH),
-    pulseIn(myReciver.channel6_port, HIGH)
+    pulseIn(reciver.channel1_port, HIGH),
+    pulseIn(reciver.channel2_port, HIGH),
+    pulseIn(reciver.channel3_port, HIGH),
+    pulseIn(reciver.channel4_port, HIGH),
+    pulseIn(reciver.channel5_port, HIGH),
+    pulseIn(reciver.channel6_port, HIGH)
   };
-  myReciver.setChannelValues(channelValues);
+  
+  reciver.setChannelValues(channelValues);
+  engine.setMotorSpeed(reciver.getThrottle(), reciver.getThrottle(), reciver.getThrottle(), reciver.getThrottle());
+
   Serial.print("Throttle: ");
-  Serial.println(myReciver.getThrottle());
+  Serial.println(reciver.getThrottle());
   Serial.print("Yaw: ");
-  Serial.println(myReciver.getYaw());
+  Serial.println(reciver.getYaw());
   Serial.print("Pitch: ");
-  Serial.println(myReciver.getPitch());
+  Serial.println(reciver.getPitch());
   Serial.print("Roll: ");
-  Serial.println(myReciver.getRoll());
+  Serial.println(reciver.getRoll());
   Serial.print("Switch A: ");
-  Serial.println(myReciver.getswitchA());
+  Serial.println(reciver.getswitchA());
   Serial.print("Switch B: ");
-  Serial.println(myReciver.getswitchB());
+  Serial.println(reciver.getswitchB());
   Serial.print("Reciver values: ");
   Serial.print(channelValues[0]);
   Serial.print(",");
@@ -43,4 +49,8 @@ void loop() {
   Serial.print(channelValues[2]);
   Serial.print(",");
   Serial.println(channelValues[3]);
+  Serial.print(",");
+  Serial.println(channelValues[4]);
+  Serial.print(",");
+  Serial.println(channelValues[5]);
 }

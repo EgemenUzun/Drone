@@ -1,7 +1,6 @@
 #include "reciver.hpp"
 #include <Arduino.h>
 ReciverLib::ReciverLib(){
-    this->initializeReciver();
 }
 
 int16_t ReciverLib::getThrottle(){
