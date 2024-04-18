@@ -1,12 +1,7 @@
 #include "reciver.hpp"
 #include <Arduino.h>
 ReciverLib::ReciverLib(){
-    this->throttle = 0;
-    this->yaw = 0;
-    this->pitch = 0;
-    this->roll = 0;
-    this->switchA = 0;
-    this->switchB = 0;
+    this->initializeReciver();
 }
 
 int16_t ReciverLib::getThrottle(){
@@ -49,10 +44,19 @@ void ReciverLib::setChannelValues(int16_t channel_values[6]){
 }
 
 void ReciverLib::covertChannelsToValue(){
-    this->roll = map(this->channel_values[0], this->min_reciver_input, this->max_reciver_input, -20, 20);
-    this->pitch = map(this->channel_values[1], this->min_reciver_input, this->max_reciver_input, -20, 20);
-    this->throttle = map(this->channel_values[2], this->min_reciver_input, this->max_reciver_input, 0, 180);
-    this->yaw = map(this->channel_values[3], this->min_reciver_input, this->max_reciver_input, -20, 20);
+    this->roll = map(this->channel_values[0], this->min_reciver_input, this->max_reciver_input, -this->drone_tilt_angle, this->drone_tilt_angle);
+    this->pitch = map(this->channel_values[1], this->min_reciver_input, this->max_reciver_input, -this->drone_tilt_angle, this->drone_tilt_angle);
+    this->throttle = map(this->channel_values[2], this->min_reciver_input, this->max_reciver_input, 0, this->dron_max_throttle);
+    this->yaw = map(this->channel_values[3], this->min_reciver_input, this->max_reciver_input, -this->drone_tilt_angle, this->drone_tilt_angle);
     this->switchA = map(this->channel_values[4], this->min_reciver_input, this->max_reciver_input, 0, 1);
     this->switchB = map(this->channel_values[5], this->min_reciver_input, this->max_reciver_input, 0, 1);
+}
+
+void ReciverLib::initializeReciver(){
+    this->throttle = 0;
+    this->yaw = 0;
+    this->pitch = 0;
+    this->roll = 0;
+    this->switchA = 0;
+    this->switchB = 0;
 }

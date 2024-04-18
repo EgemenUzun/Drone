@@ -5,6 +5,9 @@ class ReciverLib{
     //default constructor
     ReciverLib();
 
+    //initialize reciver values
+    void initializeReciver();
+
     //getters
     int16_t getThrottle();
     int16_t getYaw();
@@ -33,6 +36,8 @@ class ReciverLib{
     //reciver inputs
     const int16_t min_reciver_input = 997;
     const int16_t max_reciver_input = 1972;
+    const int16_t drone_tilt_angle = 20;
+    const int16_t dron_max_throttle = 180;
 
     //reciver values
     int16_t throttle = 0;
