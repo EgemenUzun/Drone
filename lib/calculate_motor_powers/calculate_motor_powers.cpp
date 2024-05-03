@@ -5,6 +5,10 @@
 #include <reciver.hpp>
 #include <Arduino.h>
 
+//----------- LIMITS -----------
+double const QUADCOPTER_MAX_TILT_ANGLE = 20.00; // roll, pitch tilt angle limit in degrees
+double const QUADCOPTER_MAX_YAW_ANGLE_CHANGE_PER_SECOND = 180.00;
+
 //----------- PID CONFIGURATION-----------
 double KP_roll_pitch = 0.30;
 double KI_roll_pitch = 0.10;
@@ -17,13 +21,48 @@ double KD_yaw = 0.00;
 //----------- PID CONTROL LIMITS-----------
 double ROLL_PITCH_CONTROL_SIGNAL_LIMIT = KP_roll_pitch * QUADCOPTER_MAX_TILT_ANGLE * 2;
 
-//----------- LIMITS -----------
-double QUADCOPTER_MAX_TILT_ANGLE = 20.00; // roll, pitch tilt angle limit in degrees
-double QUADCOPTER_MAX_YAW_ANGLE_CHANGE_PER_SECOND = 180.00;
-
 //----------- PID VARIABLES -----------
 double roll_pid_i, roll_last_error, pitch_pid_i, pitch_last_error, yaw_pid_i, yaw_last_error;
 double roll_control_signal, pitch_control_signal, yaw_control_signal;
+
+void resetPidVariables() {
+  roll_pid_i = 0;
+  roll_last_error = 0;
+  pitch_pid_i = 0;
+  pitch_last_error = 0;
+  yaw_pid_i = 0;
+  yaw_last_error = 0;
+}
+
+double fix360degrees(double val) {
+  if (val > 180) {
+    return val - 360;
+  } else if (val < -180) {
+    return val + 360;
+  } else {
+    return val;
+  }
+}
+
+double calculateYawError(struct ReceiverCommands receiverCommands, struct IMU_Values imu_values) {
+  double imuYawAngleChangeInDeltaTime = fix360degrees(imu_values.CurrentOrientation.YawAngle - imu_values.PreviousOrientation.YawAngle);
+  double imuYawAngleChangePerSecond = imuYawAngleChangeInDeltaTime / imu_values.DeltaTimeInSeconds;
+  double yawError = receiverCommands.YawAngleChange - imuYawAngleChangePerSecond;
+  yawError = constrain(yawError, -QUADCOPTER_MAX_YAW_ANGLE_CHANGE_PER_SECOND, QUADCOPTER_MAX_YAW_ANGLE_CHANGE_PER_SECOND);
+  return yawError;
+}
+
+struct MotorPowers reduceMotorPowers(MotorPowers motorPowers) { // to preserve balance if throttle limit exceeds the max value (180)
+  int maxMotorPower = max(max(motorPowers.frontLeftMotorPower, motorPowers.frontRightMotorPower), max(motorPowers.rearLeftMotorPower, motorPowers.rearRightMotorPower));
+  if (maxMotorPower > 180) {
+    double power_reduction_rate = (double)maxMotorPower / (double)180;
+    motorPowers.frontLeftMotorPower = round((double)motorPowers.frontLeftMotorPower / power_reduction_rate);
+    motorPowers.frontRightMotorPower = round((double)motorPowers.frontRightMotorPower / power_reduction_rate);
+    motorPowers.rearLeftMotorPower = round((double)motorPowers.rearLeftMotorPower / power_reduction_rate);
+    motorPowers.rearRightMotorPower = round((double)motorPowers.rearRightMotorPower / power_reduction_rate);
+  }
+  return motorPowers;
+}
 
 struct MotorPowers calculateMotorPowers(struct ReceiverCommands receiverCommands, struct IMU_Values imu_values) {
   // calculate orientation errors (error: difference between desired orientation and actual orientation)
@@ -52,41 +91,3 @@ struct MotorPowers calculateMotorPowers(struct ReceiverCommands receiverCommands
   return motorPowers;
 }
 
-double calculateYawError(struct ReceiverCommands receiverCommands, struct IMU_Values imu_values) {
-  double imuYawAngleChangeInDeltaTime = fix360degrees(imu_values.CurrentOrientation.YawAngle - imu_values.PreviousOrientation.YawAngle);
-  double imuYawAngleChangePerSecond = imuYawAngleChangeInDeltaTime / imu_values.DeltaTimeInSeconds;
-  double yawError = receiverCommands.YawAngleChange - imuYawAngleChangePerSecond;
-  yawError = constrain(yawError, -QUADCOPTER_MAX_YAW_ANGLE_CHANGE_PER_SECOND, QUADCOPTER_MAX_YAW_ANGLE_CHANGE_PER_SECOND);
-  return yawError;
-}
-
-struct MotorPowers reduceMotorPowers(MotorPowers motorPowers) { // to preserve balance if throttle limit exceeds the max value (180)
-  int maxMotorPower = max(max(motorPowers.frontLeftMotorPower, motorPowers.frontRightMotorPower), max(motorPowers.rearLeftMotorPower, motorPowers.rearRightMotorPower));
-  if (maxMotorPower > 180) {
-    double power_reduction_rate = (double)maxMotorPower / (double)180;
-    motorPowers.frontLeftMotorPower = round((double)motorPowers.frontLeftMotorPower / power_reduction_rate);
-    motorPowers.frontRightMotorPower = round((double)motorPowers.frontRightMotorPower / power_reduction_rate);
-    motorPowers.rearLeftMotorPower = round((double)motorPowers.rearLeftMotorPower / power_reduction_rate);
-    motorPowers.rearRightMotorPower = round((double)motorPowers.rearRightMotorPower / power_reduction_rate);
-  }
-  return motorPowers;
-}
-
-void resetPidVariables() {
-  roll_pid_i = 0;
-  roll_last_error = 0;
-  pitch_pid_i = 0;
-  pitch_last_error = 0;
-  yaw_pid_i = 0;
-  yaw_last_error = 0;
-}
-
-double fix360degrees(double val) {
-  if (val > 180) {
-    return val - 360;
-  } else if (val < -180) {
-    return val + 360;
-  } else {
-    return val;
-  }
-}
