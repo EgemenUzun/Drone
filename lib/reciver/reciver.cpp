@@ -154,7 +154,7 @@ struct ReceiverCommands GetReceiverCommands() {
 
   if (millis() - RECEIVER_COMMUNICATION_TIMEOUT_IN_MILLISECONDS > receiver_last_communication_time) {
     return getFailureReceiverCommand();
-  } else if(cmd.Throttle> THROTTLE_LIMIT_POINT || cmd.Throttle<0){
+  } else if(cmd.Throttle> THROTTLE_LIMIT_POINT){
     cmd.Throttle = 0;
     cmd.Error = true;
     return cmd;
