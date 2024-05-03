@@ -3,76 +3,44 @@
 #include "engine.hpp"
 #include "imu.hpp"
 
-ReciverLib reciver;
-Engine engine;
 void setup() {
   Serial.begin(9600);
-  pinMode(reciver.channel1_port, INPUT);
-  pinMode(reciver.channel2_port, INPUT);
-  pinMode(reciver.channel3_port, INPUT);
-  pinMode(reciver.channel4_port, INPUT);
-  pinMode(reciver.channel5_port, INPUT);
-  pinMode(reciver.channel6_port, INPUT);
-  reciver.initializeReciver();
-  engine.intializeEngine();
+  initializeReciver();
+  intializeEngine();
   initializeIMU();
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-  // int16_t channelValues[6] = {
-  //   pulseIn(reciver.channel1_port, HIGH),
-  //   pulseIn(reciver.channel2_port, HIGH),
-  //   pulseIn(reciver.channel3_port, HIGH),
-  //   pulseIn(reciver.channel4_port, HIGH),
-  //   pulseIn(reciver.channel5_port, HIGH),
-  //   pulseIn(reciver.channel6_port, HIGH)
-  // };
-  // reciver.setChannelValues(channelValues);
-  // engine.setMotorSpeed(reciver.getThrottle(), reciver.getThrottle(), reciver.getThrottle(), reciver.getThrottle());
+  struct ReceiverCommands receiverCommands = GetReceiverCommands();
+  struct IMU_Values imu_values = GetIMUvalues();
+  Serial.print("Throttle: ");
+  Serial.println(receiverCommands.Throttle);
+  Serial.print("Yaw: ");
+  Serial.println(receiverCommands.YawAngleChange);
+  Serial.print("Pitch: ");
+  Serial.println(receiverCommands.PitchAngle);
+  Serial.print("Roll: ");
+  Serial.println(receiverCommands.RollAngle);
+  Serial.print("Switch A: ");
+  Serial.println(receiverCommands.SwitchA);
+  Serial.print("Switch B: ");
+  Serial.println(receiverCommands.SwitchD);
 
-  // Serial.print("Throttle: ");
-  // Serial.println(reciver.getThrottle());
-  // Serial.print("Yaw: ");
-  // Serial.println(reciver.getYaw());
-  // Serial.print("Pitch: ");
-  // Serial.println(reciver.getPitch());
-  // Serial.print("Roll: ");
-  // Serial.println(reciver.getRoll());
-  // Serial.print("Switch A: ");
-  // Serial.println(reciver.getswitchA());
-  // Serial.print("Switch B: ");
-  // Serial.println(reciver.getswitchB());
   // Serial.print("Reciver values: ");
-  // Serial.print(channelValues[0]);
+  // Serial.print("Error:");
+  // Serial.print(imu_values.Error);
   // Serial.print(",");
-  // Serial.print(channelValues[1]);
+
+  // Serial.print("Yaw:");
+  // Serial.print(imu_values.CurrentOrientation.YawAngle);
   // Serial.print(",");
-  // Serial.print(channelValues[2]);
+
+  // Serial.print("Pitch:");
+  // Serial.print(imu_values.CurrentOrientation.PitchAngle);
   // Serial.print(",");
-  // Serial.println(channelValues[3]);
-  // Serial.print(",");
-  // Serial.println(channelValues[4]);
-  // Serial.print(",");
-  // Serial.println(channelValues[5]);
 
-  struct Orientation o = getIMUOrientation();
-
-  Serial.print("Error:");
-  Serial.print(o.Error);
-  Serial.print(",");
-
-  Serial.print("Yaw:");
-  Serial.print(o.Yaw);
-  Serial.print(",");
-
-  Serial.print("Pitch:");
-  Serial.print(o.Pitch);
-  Serial.print(",");
-
-  Serial.print("Roll:");
-  Serial.print(o.Roll);
-  Serial.println();
-
-  delay(50);
+  // Serial.print("Roll:");
+  // Serial.print(imu_values.CurrentOrientation.RollAngle);
+  // Serial.println();
+  delay(100);
 }

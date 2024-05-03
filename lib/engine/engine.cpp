@@ -1,18 +1,42 @@
-#include "engine.hpp"
+#include <engine.hpp>
 #include <servo.h>
 
-Engine::Engine(){
+//----------- PINS -----------
+#define FRONT_LEFT_MOTOR_PIN 4
+#define FRONT_RIGHT_MOTOR_PIN 6
+#define REAR_LEFT_MOTOR_PIN 5
+#define REAR_RIGHT_MOTOR_PIN 7
+#define INTERRUPT_PIN 2
+
+//----------- ESC's -----------
+#define MIN_MOTOR_PULSE_WIDTH 1000
+#define MAX_MOTOR_PULSE_WIDTH 2000
+
+
+Servo frontLeftMotor;
+Servo frontRightMotor;
+Servo rearLeftMotor;
+Servo rearRightMotor;
+
+void intializeEngine() {
+  frontLeftMotor.attach(FRONT_LEFT_MOTOR_PIN, MIN_MOTOR_PULSE_WIDTH, MAX_MOTOR_PULSE_WIDTH);
+  frontRightMotor.attach(FRONT_RIGHT_MOTOR_PIN, MIN_MOTOR_PULSE_WIDTH, MAX_MOTOR_PULSE_WIDTH);
+  rearLeftMotor.attach(REAR_LEFT_MOTOR_PIN, MIN_MOTOR_PULSE_WIDTH, MAX_MOTOR_PULSE_WIDTH);
+  rearRightMotor.attach(REAR_RIGHT_MOTOR_PIN, MIN_MOTOR_PULSE_WIDTH, MAX_MOTOR_PULSE_WIDTH);
+
+  stopMotors();
 }
 
-void Engine::setMotorSpeed(int16_t motor1_speed, int16_t motor2_speed, int16_t motor3_speed, int16_t motor4_speed){
-    this->motor1.write(motor1_speed);
-    this->motor2.write(motor2_speed);
-    this->motor3.write(motor3_speed);
-    this->motor4.write(motor4_speed);
+void spinMotors(struct MotorPowers motorPowers) {
+  frontLeftMotor.write(motorPowers.frontLeftMotorPower);
+  frontRightMotor.write(motorPowers.frontRightMotorPower);
+  rearLeftMotor.write(motorPowers.rearLeftMotorPower);
+  rearRightMotor.write(motorPowers.rearRightMotorPower);
 }
-void Engine::intializeEngine(){
-  motor1.attach(this->motor1_port, 1000, 2000);
-  motor2.attach(this->motor2_port, 1000, 2000);
-  motor3.attach(this->motor3_port, 1000, 2000);
-  motor4.attach(this->motor4_port, 1000, 2000);
+
+void stopMotors() {
+  frontLeftMotor.write(0);
+  frontRightMotor.write(0);
+  rearLeftMotor.write(0);
+  rearRightMotor.write(0);
 }
