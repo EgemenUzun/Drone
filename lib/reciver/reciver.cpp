@@ -68,36 +68,15 @@ int ignoreDeadBand(int val) {
     return val;
 }
 
-bool isThrottleStickPositonAtFullDown(ReceiverRawValues rawValues) {
-  if (abs(rawValues.ChannelValues[2] - TRANSMITTER_JOYSTICK_MIN_VALUE) < TRANSMITTER_ARMING_JOYSTICK_TOLERANCE) {
-    return true;
-  }
-  return false;
-}
-
-bool isYawStickPositionAtFullLeft(ReceiverRawValues rawValues) {
-  if (abs(rawValues.ChannelValues[3] - TRANSMITTER_JOYSTICK_MIN_VALUE) < TRANSMITTER_ARMING_JOYSTICK_TOLERANCE) {
-    return true;
-  }
-  return false;
-}
-
-bool isYawStickPositionAtFullRight(ReceiverRawValues rawValues) {
-  if (abs(rawValues.ChannelValues[3] - TRANSMITTER_JOYSTICK_MAX_VALUE) < TRANSMITTER_ARMING_JOYSTICK_TOLERANCE) {
-    return true;
-  }
-  return false;
-}
-
 bool isArming(ReceiverRawValues rawValues) {
-  if (isThrottleStickPositonAtFullDown(rawValues) && isYawStickPositionAtFullRight(rawValues)) {
+  if (map(rawValues.ChannelValues[4], TRANSMITTER_SWITCH_MIN_VALUE, TRANSMITTER_SWITCH_MAX_VALUE, 0, 1) == 1) {
     return true;
   }
   return false;
 }
 
 bool isDisarming(ReceiverRawValues rawValues) {
-  if (isThrottleStickPositonAtFullDown(rawValues) && isYawStickPositionAtFullLeft(rawValues)) {
+  if (map(rawValues.ChannelValues[4], TRANSMITTER_SWITCH_MIN_VALUE, TRANSMITTER_SWITCH_MAX_VALUE, 0, 1) == 0) {
     return true;
   }
   return false;
