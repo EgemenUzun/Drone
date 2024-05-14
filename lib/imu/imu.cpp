@@ -91,8 +91,8 @@ struct IMU_Values GetIMUvalues() {
     mpu.dmpGetYawPitchRoll(ypr, &q, &gravity);
 
     o.CurrentOrientation.YawAngle = ypr[0] * 180 / M_PI;
-    o.CurrentOrientation.RollAngle = ypr[1] * 180 / M_PI * -1; // -1 is for changing rotation in order to align with receiver values
-    o.CurrentOrientation.PitchAngle = ypr[2] * 180 / M_PI; 
+    o.CurrentOrientation.RollAngle = ypr[1] * 180 / M_PI;
+    o.CurrentOrientation.PitchAngle = ypr[2] * 180 / M_PI * -1; // -1 is for changing rotation in order to align with receiver values 
     o.PreviousOrientation = previousOrientation;
     o.NewDataAvailable = true;
     o.DeltaTimeInSeconds = delta_time_in_seconds;
