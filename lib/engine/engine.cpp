@@ -2,11 +2,10 @@
 #include <servo.h>
 
 //----------- PINS -----------
-#define FRONT_LEFT_MOTOR_PIN 4
-#define FRONT_RIGHT_MOTOR_PIN 6
-#define REAR_LEFT_MOTOR_PIN 5
-#define REAR_RIGHT_MOTOR_PIN 7
-#define INTERRUPT_PIN 2
+#define FRONT_LEFT_MOTOR_PIN 7
+#define FRONT_RIGHT_MOTOR_PIN 4
+#define REAR_LEFT_MOTOR_PIN 6
+#define REAR_RIGHT_MOTOR_PIN 5
 
 //----------- ESC's -----------
 #define MIN_MOTOR_PULSE_WIDTH 1000
