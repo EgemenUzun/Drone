@@ -3,13 +3,12 @@
 #include <Arduino.h>
 
 //----------- RECEIVER & TRANSMITTER -----------
-#define TRANSMITTER_JOYSTICK_MIN_VALUE 1020
+#define TRANSMITTER_JOYSTICK_MIN_VALUE 1002
 #define TRANSMITTER_JOYSTICK_MAX_VALUE 2000
 #define TRANSMITTER_SWITCH_MIN_VALUE 1000
 #define TRANSMITTER_SWITCH_MAX_VALUE 2000
 #define TRANSMITTER_JOYSTICK_DEAD_BAND 40
 #define TRANSMITTER_ARMING_DURATION_IN_MILLISECONDS 1000
-#define TRANSMITTER_ARMING_JOYSTICK_TOLERANCE 30
 #define CHANNEL1_PIN 8  // Roll  
 #define CHANNEL2_PIN 9  // Pitch 
 #define CHANNEL3_PIN 10 // Throttle
@@ -75,46 +74,10 @@ bool isArming(ReceiverRawValues rawValues) {
   return false;
 }
 
-bool isDisarming(ReceiverRawValues rawValues) {
-  if (map(rawValues.ChannelValues[4], TRANSMITTER_SWITCH_MIN_VALUE, TRANSMITTER_SWITCH_MAX_VALUE, 0, 1) == 0) {
-    return true;
-  }
-  return false;
-}
 
 double map_double(double x, double in_min, double in_max, double out_min, double out_max)
 {
   return (x - in_min) * (out_max - out_min) / (in_max - in_min) + out_min;
-}
-
-bool getArmStatus(ReceiverRawValues rawValues) {
-
-  if (isArming(rawValues) && !armed) {
-    hasDisarmingStarted = false;
-    if (!hasArmingStarted) {
-      armingStartTime = millis();
-      hasArmingStarted = true;
-    } else {
-      if (millis() - armingStartTime >= TRANSMITTER_ARMING_DURATION_IN_MILLISECONDS) {
-        armed = true;
-      }
-    }
-  } else if (isDisarming(rawValues) && armed) {
-    hasArmingStarted = false;
-    if (!hasDisarmingStarted) {
-      disarmingStartTime = millis();
-      hasDisarmingStarted = true;
-    } else {
-      if (millis() - disarmingStartTime >= TRANSMITTER_ARMING_DURATION_IN_MILLISECONDS) {
-        armed = false;
-      }
-    }
-  } else {
-    hasArmingStarted = false;
-    hasDisarmingStarted = false;
-  }
-
-  return armed;
 }
 
 struct ReceiverCommands GetReceiverCommands() {
@@ -123,12 +86,12 @@ struct ReceiverCommands GetReceiverCommands() {
 
     struct ReceiverCommands cmd;
     cmd.RollAngle = map_double(receiverRawValues.ChannelValues[0], TRANSMITTER_JOYSTICK_MIN_VALUE, TRANSMITTER_JOYSTICK_MAX_VALUE, -QUADCOPTER_MAX_TILT_ANGLE, QUADCOPTER_MAX_TILT_ANGLE);
-    cmd.PitchAngle = map_double(receiverRawValues.ChannelValues[1], TRANSMITTER_JOYSTICK_MIN_VALUE, TRANSMITTER_JOYSTICK_MAX_VALUE, -QUADCOPTER_MAX_TILT_ANGLE, QUADCOPTER_MAX_TILT_ANGLE);
+    cmd.PitchAngle = -1 * map_double(receiverRawValues.ChannelValues[1], TRANSMITTER_SWITCH_MIN_VALUE, TRANSMITTER_JOYSTICK_MAX_VALUE, -QUADCOPTER_MAX_TILT_ANGLE, QUADCOPTER_MAX_TILT_ANGLE);
     cmd.Throttle = map_double(receiverRawValues.ChannelValues[2], TRANSMITTER_JOYSTICK_MIN_VALUE, TRANSMITTER_JOYSTICK_MAX_VALUE, 0, THROTTLE_LIMIT_POINT);
     cmd.YawAngleChange = map_double(ignoreDeadBand(receiverRawValues.ChannelValues[3]), TRANSMITTER_JOYSTICK_MIN_VALUE, TRANSMITTER_JOYSTICK_MAX_VALUE, -QUADCOPTER_MAX_YAW_ANGLE_CHANGE_PER_SECOND, QUADCOPTER_MAX_YAW_ANGLE_CHANGE_PER_SECOND);
     cmd.SwitchA = map(receiverRawValues.ChannelValues[4], TRANSMITTER_SWITCH_MIN_VALUE, TRANSMITTER_SWITCH_MAX_VALUE, 0, 1);
     cmd.SwitchD = map(receiverRawValues.ChannelValues[5], TRANSMITTER_SWITCH_MIN_VALUE, TRANSMITTER_SWITCH_MAX_VALUE, 0, 1);
-    cmd.Armed = getArmStatus(receiverRawValues);
+    cmd.Armed = isArming(receiverRawValues);
     cmd.Error = false;
 
   if (millis() - RECEIVER_COMMUNICATION_TIMEOUT_IN_MILLISECONDS > receiver_last_communication_time) {

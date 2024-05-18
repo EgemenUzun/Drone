@@ -1,0 +1,5295 @@
+--- Terminal on COM7 | 115200 8-N-1
+--- Available filters and text transformations: colorize, debug, default, direct, hexlify, log2file, nocontrol, printable, send_on_enter, time
+--- More details at https://bit.ly/pio-monitor-filters
+--- Quit: Ctrl+C | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H
+Front Left:-3
+Front Right:-1
+Rear Left:21
+Rear Right:23
+-----------------------------
+Front Left:11
+Front Right:11
+Rear Left:12
+Rear Right:12
+-----------------------------
+Front Left:14
+Front Right:14
+Rear Left:15
+Rear Right:15
+-----------------------------
+Front Left:15
+Front Right:15
+Rear Left:16
+Rear Right:16
+-----------------------------
+Front Left:15
+Front Right:16
+Rear Left:16
+Rear Right:16
+-----------------------------
+Front Left:15
+Front Right:15
+Rear Left:16
+Rear Right:16
+-----------------------------
+Front Left:16
+Front Right:16
+Rear Left:17
+Rear Right:17
+-----------------------------
+Front Left:16
+Front Right:16
+Rear Left:17
+Rear Right:17
+-----------------------------
+Front Left:16
+Front Right:16
+Rear Left:17
+Rear Right:17
+-----------------------------
+Front Left:16
+Front Right:16
+Rear Left:17
+Rear Right:17
+-----------------------------
+Front Left:17
+Front Right:17
+Rear Left:18
+Rear Right:18
+-----------------------------
+Front Left:20
+Front Right:20
+Rear Left:21
+Rear Right:21
+-----------------------------
+Front Left:22
+Front Right:22
+Rear Left:23
+Rear Right:23
+-----------------------------
+Front Left:24
+Front Right:24
+Rear Left:25
+Rear Right:25
+-----------------------------
+Front Left:26
+Front Right:26
+Rear Left:27
+Rear Right:27
+-----------------------------
+Front Left:26
+Front Right:26
+Rear Left:27
+Rear Right:27
+-----------------------------
+Front Left:29
+Front Right:29
+Rear Left:30
+Rear Right:30
+-----------------------------
+Front Left:30
+Front Right:30
+Rear Left:31Rer Rght:31
+-----------------------------
+Front Left:31
+Front Right:31
+Rear Left:32
+Rear Right:32
+-----------------------------
+Front Left:31
+Front Right:32
+Rear Left:32
+Rear Right:32
+-----------------------------
+Front Left:32
+Front Right:32
+Rear Left:33
+Rear Right:33
+-----------------------------
+Front Left:32
+Front Right:32
+Rear Left:33
+Rear Right:33
+-----------------------------
+Front Left:33
+Front Right:33
+Rear Left:33
+Rear Right:33
+-----------------------------
+Front Left:34
+Front Right:34
+Rear Left:35
+Rear Right:35
+-----------------------------
+Front Left:38
+Front Right:38
+Rear Left:38
+Rear Right:39
+-----------------------------
+Front Left:40
+Front Right:40
+Rear Left:41
+Rear Right:41
+-----------------------------
+Front Left:42
+Front Right:42
+Rear Left:43
+Rear Right:43
+-----------------------------
+Front Left:46
+Front Right:46
+Rear Left:47
+Rear Right:47
+-----------------------------
+Front Left:49
+Front Right:49
+Rear Left:50
+Rear Right:50
+-----------------------------
+Front Left:55
+Front Right:55
+Rear Left:55
+Rear Right:55
+-----------------------------
+Front Left:56
+Front Right:56
+Rear Left:56
+Rear Right:57
+-----------------------------
+Front Left:57
+Front Right:57
+Rear Left:57
+Rear Right:57
+-----------------------------
+Front Left:57
+Front Right:57
+Rear Left:58
+Rear Right:58
+-----------------------------
+Front Left:57
+Front Right:57
+Rear Left:58
+Rear Right:58
+-----------------------------
+Front Left:58
+Front Right:58
+Rear Left:59
+Rear Right:59
+-----------------------------
+Front Left:58
+Front Right:58
+Rear Left:59
+Rear Right:59
+-----------------------------
+Front Left:59
+Front Right:59
+Rear Left:60
+Rear Right:60
+-----------------------------
+Front Left:59
+Front Right:59
+Rear Left:60
+Rear Right:60
+-----------------------------
+Front Left:60
+Front Right:60
+Rear Left:61
+Rear Right:61
+-----------------------------
+Front Left:60
+Front Right:60
+Rear Left:61
+Rear Right:61
+-----------------------------
+Front Left:63
+Front Right:63
+Rear Left:64
+Rear Right:64
+-----------------------------
+Front Left:67
+Front Right:67
+Rear Left:68
+Rear Right:68
+-----------------------------
+Front Left:70
+Front Right:70
+Rear Left:71
+Rear Right:71
+-----------------------------
+Frnt Left:72
+Front Right:72
+Rear Left:73
+Rear Right:73
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+---------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Let:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear eft:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+--------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Rigt:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right73Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:75
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:75
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:75
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:76
+Front Right:70
+Rear Left:77
+Rear Right:72
+-----------------------------
+Positive Roll:1.52
+-----------------------------
+Front Left:81
+Front Right:65
+Rear Left:83
+Rear Right:66
+-----------------------------
+Positive Roll:2.24
+-----------------------------
+Front Left:79
+Front Right:67
+Rear Left:80
+Rear Right:69
+-----------------------------
+Positive Roll:3.57
+-----------------------------
+Front Left:79
+Front Right:68
+Rear Left:80
+Rear Right:69
+-----------------------------
+Positive Roll:5.17
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:82
+Rear Right:67
+-----------------------------
+Positive Roll:5.81
+-----------------------------
+Front Left:78
+Front Right:68
+Rear Left:79
+Rear Right:70
+-----------------------------
+Positive Roll:7.62
+-----------------------------
+Front Left:82
+Front Right:65
+Rear Left:83
+Rear Right:66
+-----------------------------
+Positive Roll:8.14
+-----------------------------
+Front Left:78
+Front Right:68
+Rear Left:79
+Rear Right:70
+-----------------------------
+Positive Roll:9.66
+-----------------------------
+Front Left:81
+Front Right:65
+Rear Left:83
+Rear Right:66
+-----------------------------
+Positive Roll:10.34
+-----------------------------
+Front Lef:80
+Front Right:67
+Rear Left:81
+Rear Right:68
+-----------------------------
+Positive Roll:11.10
+-----------------------------
+Front Left:79
+Front Right:67
+Rear Left:81
+Rear Right:68
+-----------------------------
+Positive Roll:12.06
+-----------------------------
+Front Left:81
+Front Right:65
+Rear Left:83
+Rear Right:66
+-----------------------------
+Positive Roll:12.83
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:81
+Rear Right:68
+-----------------------------
+Positive Roll:13.27
+-----------------------------
+Front Left:79
+Front Right:67
+Rear Left:81
+Rear Right:68
+-----------------------------
+Positive Roll:13.99
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:81
+Rear Right:67
+-----------------------------
+Positive Roll:14.55
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:82
+Rear Right:67
+-----------------------------
+Positive Roll:15.19
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:82
+Rear Right:67
+-----------------------------
+Positive Roll:16.35
+-----------------------------
+Front Left:83
+Front Right:64
+Rear Left:84
+Rear Right:65
+-----------------------------
+Positive Roll:16.91
+-----------------------------
+Front Left:81
+Front Right:65
+Rear Left:82
+Rear Right:66
+-----------------------------
+Positive Roll:18.16
+-----------------------------
+Front Left:83
+Front Right:63
+Rear Left:85
+Rear Right:64
+-----------------------------
+Positive Roll:18.52
+-----------------------------
+Front Left:81
+Front Right:65
+Rear Left:82
+Rear Right:67
+-----------------------------
+Positive Roll:19.36
+-----------------------------
+Front Left:82
+Front Right:64
+Rear Left:84
+Rear Right:65
+-----------------------------
+Positive Roll:19.92
+-----------------------------
+Front Left:82
+Front Right:64
+Rear Left:84
+Rear Right:65
+-----------------------------
+Positive Roll:19.92
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:81
+Rear Right:68
+-----------------------------
+Positive Roll:19.92
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:81
+Rear Right:68
+-----------------------------
+Positive Roll:19.92
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Let:81
+Rear Right:68
+-----------------------------
+Positive Roll:19.92
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:81
+Rear Right:68
+-----------------------------
+Positive Roll:19.92
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:81
+Rear Right:68
+-----------------------------
+Positive Roll:19.92
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:81
+Rear Right:68
+-----------------------------
+Positive Roll:19.92
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:81
+Rear Right:68
+-----------------------------
+Positive Roll:19.92
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:81
+Rear Right:68
+-----------------------------
+Positive Roll:19.92
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:82
+Rear Right:67
+-----------------------------
+Positive Roll:9.2
+----------------------------
+Front Left:80
+Front Right:66
+Rear Left:82
+Rear Right:67
+-----------------------------
+Positive Roll:19.92
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:82
+Rear Right:67
+-----------------------------
+Positive Roll:19.92
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:82
+Rear Rigt:7
+----------------------------
+Positive Roll:19.92
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:82
+Rear Right:67
+-----------------------------
+Positive Roll:19.92
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:82
+Rear Right:67
+-----------------------------
+Positive Roll:19.88
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:82
+Rear Right:67
+-----------------------------
+Positive Roll:19.72
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:81
+Rear Right:68
+-----------------------------
+Positive Roll:19.56
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:81
+Rear Right:68
+-----------------------------
+Positive Roll:19.16
+-----------------------------
+Front Left:79
+Front Right:67
+Rear Left:80
+Rear Right:69
+-----------------------------
+Positive Roll:19.12
+--------------------------
+Front Left:80
+Front Right:66
+Rear Left:82
+Rear Right:67
+-----------------------------
+Positive Roll:18.96
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:81
+Rear Right:68
+-----------------------------
+Positive Roll:18.88
+-----------------------------
+Front Left:80
+Front Right:66
+Rear Left:82
+Rear Right:68
+--------------------------
+Positive Roll:18.56
+-----------------------------
+Front Left:79
+Front Right:67
+Rear Left:81
+Rear Right:68
+-----------------------------
+Positive Roll:18.24
+-----------------------------
+Front Left:79
+Front Right:67
+Rear Left:80
+Rear Right:69
+-----------------------------
+Positive Roll:17.72
+-----------------------------
+Front Left:78
+Front Right:68
+Rear Left:80
+Rear Right:69
+-----------------------------
+Positive Roll:17.27
+-----------------------------
+Front Left:78
+Front Right:68
+Rear Left:80
+Rear Right:70
+-----------------------------
+Positive Roll:16.71
+---------------------------
+Front Left:78
+Front Right:68
+Rear Left:80
+Rear Right:70
+-----------------------------
+Positive Roll:16.19
+-----------------------------
+Front Left:77
+Front Right:69
+Rear Left:79
+Rear Right:70
+-----------------------------
+Positive Roll:15.35
+-----------------------------
+FontLet:77
+Front Right:69
+Rear Left:78
+Rear Right:71
+-----------------------------
+Positive Roll:14.27
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Positive Roll:13.47
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+----------------------------
+Positive Roll:13.03
+-----------------------------
+Front Left:77
+Front Right:69
+Rear Left:79
+Rear Right:70
+-----------------------------
+Positive Roll:12.59
+-----------------------------
+Front Left:77
+Front Right:69
+Rear Left:78
+Rear Right:71
+-----------------------------
+Positive Roll:11.34
+-----------------------------
+Front Left:74
+Front Right:72
+Rear Left:76
+Rear Right:74
+-----------------------------
+Positive Roll:10.74
+-----------------------------
+Front Left:76
+Front Right:70
+Rear Left:77
+Rear Right:72
+-----------------------------
+Positive Roll:9.50
+-----------------------------
+Front Left:74
+Front Right:72
+Rear Left:75
+Rear Right:74
+-----------------------------
+Positive Roll:8.78
+-----------------------------
+Front Left:74
+Front Right:72
+Rear Left:76
+Rear Right:73
+-----------------------------
+Positive Roll:7.21
+-----------------------------
+Front Left:72
+Front Right:74
+Rear Left:74
+Rear Right:76
+-----------------------------
+Positive Roll:5.25
+-----------------------------
+Front Left:70
+Front Right:76
+Rear Left:72
+Rear Right:78
+-----------------------------
+Positive Roll:3.81
+-----------------------------
+Front Left:69
+Front Right:76
+Rear Left:71
+Rear Right:78
+-----------------------------
+Positive Roll:2.85
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:75
+-----------------------------
+Positive Roll:1.64
+-----------------------------
+Front Left:70
+Front Right:76
+Rear Left:72
+Rear Right:78
+-----------------------------
+Front Left:70
+Front Right:76
+Rear Left:72
+Rear Right:78
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:73
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:73
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Rght:2-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right72
+--------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Fon ef:5
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Rgt:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rar igt73
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:77
+Rear Right:72
+-----------------------------
+Front Left:74
+Front Right:72
+Rear Left:75
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:72
+Rear Left:75
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:75
+Rear igt:4
+-----------------------------
+Negative Roll:-1.36
+-----------------------------
+Front Left:70
+Front Right:75
+Rear Left:72
+Rear Right:77
+-----------------------------
+Negative Roll:-1.80
+-----------------------------
+Front Left:72
+Front Right:74
+Rear Left:74
+Rear Right:76
+-----------------------------
+Negativ Roll:-2.81
+-----------------------------
+Front Left:70
+Front Right:76
+Rear Left:72
+Rear Right:78
+-----------------------------
+Negative Roll:-3.61
+-----------------------------
+Front Left:71
+Front Right:74
+Rear Left:73
+Rear Right:76
+-----------------------------
+Negative Roll:-5.05
+-----------------------------
+Front Left:68
+Front Right:77
+Rear Left:70
+Rea Right:79
+-----------------------------
+Negative Roll:-5.89
+-----------------------------
+Front Left:69
+Front Right:76
+Rear Left:71
+Rear Right:78
+-----------------------------
+Negative Roll:-6.73
+-----------------------------
+Front Left:69
+Front Right:76
+Rear Left:71
+Rear Right:78
+-----------------------------
+Negative Roll:-7.58
+-----------------------------
+Front Left:70
+Front Right:76
+Rear Left:71
+Rear Right:78
+-----------------------------
+Negative Roll:-8.78
+-----------------------------
+Front Left:68
+Front Right:77
+Rear Left:70
+Rear Right:79
+-----------------------------
+Negative Roll:-9.66
+-----------------------------
+Front Left:68
+Front Right:78
+Rear Left:70
+Rear Right:80
+-----------------------------
+Negative Roll:-10.62
+-----------------------------
+Front Left:68
+Front Right:77
+Rear Left:70
+Rear Right:79
+-----------------------------
+Negative Roll:-11.06
+-----------------------
+Front Left:70
+Front Right:76
+Rear Left:72
+Rear Right:78
+-----------------------------
+Negative Roll:-11.78
+-----------------------------
+Front Left:69
+Front Right:77
+Rear Left:71
+Rear Right:79
+-----------------------------
+Negative Roll:-12.34
+-----------------------------
+Front Left:69
+Front Right:77
+Rear Left:71
+Rear Right:79
+---------------------------
+Negative Roll:-13.07
+-----------------------------
+Front Left:68
+Front Right:77
+Rear Left:70
+Rear Right:79
+-----------------------------
+Negative Roll:-13.39
+-----------------------------
+Front Left:69
+Front Right:76
+Rear Left:71
+Rear Right:78
+-----------------------------
+Negative Roll:-13.79
+-----------------------------
+Front Left:69
+Front Right:76
+Rear Left:71
+Rear Right:78
+-----------------------------
+Negative Roll:-14.23
+-----------------------------
+Front Left:68
+Front Right:77
+Rear Left:70
+Rear Right:79
+-----------------------------
+Negative Roll:-14.79
+------------------------
+Front Left:68
+Front Right:77
+Rear Left:70
+Rear Right:79
+-----------------------------
+Negative Roll:-15.11
+-----------------------------
+Front Left:69
+Front Right:77
+Rear Left:71
+Rear Right:79
+-----------------------------
+Negative Roll:-15.51
+-----------------------------
+Front Left:68
+Front Right:77
+Rear Left:70
+Rear Right:79
+-----------------------------
+Negative Roll:-15.95
+-----------------------------
+Front Left:71
+Front Right:75
+Rear Left:68
+Rear Right:82
+-----------------------------
+Negative Roll:-16.55
+-----------------------------
+Front Left:63
+Front Right:82
+Rear Left:72
+Rear Right:78
+-----------------------------
+Negative Roll:-17.60
+-----------------------------
+Front Left:66
+Front Right:79
+Rear Left:68
+Rear Right:81
+-----------------------------
+Negative Roll:-18.52
+-----------------------------
+Front Left:66
+Front Right:0
+Rear Left:68
+Rear Right:82
+-----------------------------
+Negative Roll:-18.88
+-----------------------------
+Front Left:67
+Front Right:79
+Rear Left:69
+Rear Right:81
+-----------------------------
+Negative Roll:-19.32
+-----------------------------
+Front Left:67
+Front Right:79
+Rear Left:69
+Rear Right:81
+-----------------------------
+Negative Roll:-19.84
+-----------------------------
+Front Left:66
+Front Right:80
+Rear Left:68
+Rear Right:82
+-----------------------------
+Negative Roll:-20.00
+-----------------------------
+Front Left:68
+Front Right:78
+Rear Left:70
+Rear Right:80
+-----------------------------
+Negative Roll:-20.00
+-----------------------------
+Front Left:68
+Front Right:77
+Rear Left:70
+Rear Right:80
+-----------------------------
+Negative Roll:-20.00
+-----------------------------
+Front Left:68
+Front Right:78
+Rear Left:70
+Rear Right:80
+-----------------------------
+NgatveRoll:20.00
+-----------------------------
+Front Left:68
+Front Right:78
+Rear Left:70
+Rear Right:80
+-----------------------------
+Negative Roll:-20.00
+-----------------------------
+Front Left:68
+Front Right:78
+Rear Left:70
+Rear Right:80
+-----------------------------
+Negative Roll:-20.00
+-----------------------------
+Front Left:68
+Front Right:78
+Rear Let:7
+ear Right:80
+-----------------------------
+Negative Roll:-20.00
+-----------------------------
+Front Left:68
+Front Right:78
+Rear Left:70
+Rear Right:80
+-----------------------------
+Negative Roll:-20.00
+-----------------------------
+Front Left:68
+Front Right:78
+Rear Left:70
+Rear Right:80
+-----------------------------
+Negative Roll:-20.00
+-----------------------------
+Front Left:68
+Front Right:78
+Rear Left:70
+Rear Right:80
+-----------------------------
+Negative Roll:-20.00
+-----------------------------
+Front Left:68
+Front Right:78
+Rear Left:70
+Rear Right:80
+-----------------------------
+Negative Roll:-20.00
+-----------------------------
+Front Left:68
+Front Right:78
+Rear Left:70
+Rear Right:80
+-----------------------------
+Negative Roll:-20.00
+-----------------------------
+Front Left:67
+Front Right:78
+Rear Left:70
+Rear Right:80
+-----------------------------
+Negative Roll:-20.00
+-----------------------------
+Front Left:67
+Front Right:78
+Rear Left:70
+Rear Right:80
+-----------------------------
+Negative Roll:-20.00
+-----------------------------
+Front Left:67
+Front Right:78
+Rear Left:69
+Rear Right:80
+-----------------------------
+Negative Roll:-20.00
+-----------------------------
+Front Left:67
+Front Right:78
+Rear Left:69
+Rear Right:80
+-----------------------------
+Negative Roll:-20.00
+-----------------------------
+Front Left:67
+Front Right:78
+Rear Left:69
+Rear Right:80
+-----------------------------
+Negative Roll:-20.00
+-----------------------------
+Front Left:67
+Front Right:78
+Rear Left:69
+Rear Right:80
+-----------------------------
+Negative Roll:-20.00
+-----------------------------
+Front Left:67
+Front Right:78
+Rear Left:69
+Rear Right:80
+-----------------------------
+Negative Roll:-20.00
+-----------------------------
+Front Left:67
+Front Right:78
+Rear Left:69
+Rear Right:80
+-----------------------------
+Negative Roll:-20.00
+-----------------------------
+Front Left:67
+Front Right:78
+Rear Left:69
+Rear Right:80
+-----------------------------
+Negative Roll:-20.00
+-----------------------------
+Front Left:67
+Front Right:78
+Rear Left:69
+Rear Right:81
+-----------------------------
+Negative Roll:-19.96
+---------------------------
+Front Left:67
+Front Right:78
+Rear Left:69
+Rear Right:80
+-----------------------------
+Negative Roll:-19.88
+-----------------------------
+Front Left:67
+Front Right:78
+Rear Left:69
+Rear Right:80
+-----------------------------
+Negative Roll:-19.68
+-----------------------------
+Front Left:68
+Front Right:78
+Rear Left:70
+Rear Rght80
+----------------------------
+Negative Roll:-19.48
+-----------------------------
+Front Left:68
+Front Right:78
+Rear Left:70
+Rear Right:80
+-----------------------------
+Negative Roll:-19.08
+-----------------------------
+Front Left:68
+Front Right:77
+Rear Left:71
+Rear Right:79
+-----------------------------
+Negative Roll:-18.72
+-----------------------------
+Front Left:69
+Front Right:77
+Rear Left:71
+Rear Right:79
+-----------------------------
+Negative Roll:-17.96
+-----------------------------
+Front Left:70
+Front Right:75
+Rear Left:72
+Rear Right:78
+-----------------------------
+Negative Roll:-17.11
+-----------------------------
+Front Left:71
+Front Right:74
+Rear Left:73
+Rear Right:76
+-----------------------------
+Negative Roll:-16.03
+-----------------------------
+Front Left:72
+Front Right:74
+Rear Left:74
+Rear Right:76
+-----------------------------
+Negative Roll:-15.27
+-----------------------------
+Front Left:71
+Front Right:74
+Rear Left:73
+Rear Right:76
+-----------------------------
+Negative Roll:-14.03
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:75
+Rear Right:75
+-----------------------------
+Negative Roll:-13.55
+-----------------------------
+Front Left:71
+Front Right:75
+Rear Left:73
+Rear Right:77
+-----------------------------
+Negative Roll:-12.51
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:75
+Rear Right:75
+-----------------------------
+Negative Roll:-11.78
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:76
+-----------------------------
+Negative Roll:-11.14
+-----------------------------
+Front Left:71
+Front Right:74
+Rear Left:73
+Rear Right:76
+-----------------------------
+Negative Roll:-10.74
+-----------------------------
+Front Left:71
+Front Right:74
+Rear Left:73
+Rear Right:77
+-----------------------------
+Negative Roll:-10.14
+-----------------------------
+Front Left:71
+Front Right:74
+Rear Left:74
+Rear Right:76
+-----------------------------
+Negative Roll:-9.26
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:75
+Rear Right:75
+-----------------------------
+Negative Roll:-8.42
+-----------------------------
+FontLeft:73
+Front Right:72
+Rear Left:76
+Rear Right:74
+-----------------------------
+Negative Roll:-7.49
+-----------------------------
+Front Left:73
+Front Right:72
+Rear Left:76
+Rear Right:74
+-----------------------------
+Negative Roll:-6.41
+-----------------------------
+Front Left:75
+Front Right:70
+Rear Left:77
+Rear Right:72
+-----------------------------
+Negative Roll:-5.09
+-----------------------------
+Front Left:75
+Front Right:70
+Rear Left:78
+Rear Right:72
+-----------------------------
+Negative Roll:-4.13
+-----------------------------
+Front Left:75
+Front Right:70
+Rear Left:77
+Rear Right:72
+-----------------------------
+Negative Roll:-3.37
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:76
+Rear Right:74
+-----------------------------
+Negative Roll:-2.53
+-----------------------------
+Front Left:75
+Front Right:70
+Rear Left:77
+Rear Right:73
+-----------------------------
+Negative Roll:-1.24
+-----------------------------
+Front Left:76
+Front Right:69
+Rear Left:79
+Rear Right:71
+-----------------------------
+Front Left:75
+Front Right:70
+Rear Left:77
+Rear Right:73
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:77
+Rear Right:73
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:75
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:75
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:75
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:75
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:75
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:75
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:75
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:75
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:75
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:75
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:75
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:75
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear eft:4
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:75
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:75
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:75
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:75
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:75
+Rear Right:75
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:75
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:75
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:75
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:75
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:75
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:75
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:75
+Rear Right:76
+-----------------------------
+Front Left:72Front Right:73
+Rear Left:75
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:75
+Rear Right:76
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:75
+Rear Right:76
+-----------------------------
+Front Left:71
+Front Right:72
+Rear Left:75
+Rear Right:76
+-----------------------------
+Front Left:65
+Front ight:66
+Rear Left:81
+Rear Right:82
+-----------------------------
+Negative Pitch:-1.44
+-----------------------------
+Front Left:68
+Front Right:69
+Rear Left:78
+Rear Right:79
+-----------------------------
+Negative Pitch:-2.32
+-----------------------------
+Front Left:65
+Front Right:66
+Rear Left:81
+Rear Right:82
+-----------------------------
+Negative Pitch:-4.16
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-5.24
+-----------------------------
+Front Left:65
+Front Right:66
+Rear Left:81
+Rear Right:82
+-----------------------------
+Negative Pitch:-6.24
+-----------------------------
+Fon Left:67
+Front Right:68
+Rear Left:80
+Rear Right:81
+-----------------------------
+Negative Pitch:-7.52
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:83
+Rear Right:84
+-----------------------------
+Negative Pitch:-9.36
+-----------------------------
+Front Left:62
+Front Right:64
+Rear Left:84
+Rear Right:85
+----------------------------
+Negative Pitch:-10.36
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-11.48
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-12.44
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:83
+Rear Right:84
+-----------------------------
+Negative Pitch:-13.60
+-----------------------------
+Front Left:64
+Front Right:64
+Rear Left:83
+Rear Right:84
+-----------------------------
+Negative Pitch:-14.60
+-----------------------------
+Front Left:63
+Front Right:64
+Rear Left:84
+Rear Right:85
+-----------------------------
+Negative Pitch:-15.60
+-----------------------------
+Front Left:63
+Front Right:65
+Rear Left:83
+Rear Right:84
+-----------------------------
+Negative Pitch:-16.56
+-----------------------------
+Front Left:62
+Front Right:63
+Rear Left:84
+Rear Right:85
+-----------------------------
+Negative Pitch:-17.52
+-----------------------------
+Front Left:63
+Front Right:64
+Rear Left:84
+Rear Right:85
+-----------------------------
+Negative Pitch:-18.08
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-19.12
+-----------------------------
+Front Left:61
+Front Right:62
+Rear Left:85
+Rear Right:86
+-----------------------------
+Negative Pitch:-19.88
+-----------------------------
+Front Left:63
+Front Right:64
+Rear Left:84
+Rear Right:85
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:65
+Front Right:66
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:65
+Front Right:66
+Rear Left:81
+Rear Right:82
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:65
+Front Right:66
+Rear Left:81
+Rear Right:82
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:65
+Front Right:66
+Rear Left:81
+Rear Right:82
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Lf:65
+Front Right:66
+Rear Left:81
+Rear Right:82
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:65
+Front Right:66
+Rear Left:81
+Rear Right:82
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:65
+Frot ih:66
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:65
+Front Right:66
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:65
+Front Right:66
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:65
+Front Right:66
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:65
+Front Right:66
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:65
+Front Right:66
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:65
+Front Right:66
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:6Front Right:66
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:65
+Front Right:66
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:65
+Front Right:66
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:82
+Rear Right:83
+-----------------------------
+Ngative Pitch:-20.00
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:64
+Front Right:5Rea Left:82
+Rear Right:84
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:83
+Rear Right:84
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:83
+Rear Right:84
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:83
+Rear Right:84
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:83
+Rear Right:84
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:83
+Rear Right:84
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:83
+Rear Right:84
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:83
+Rear Right:84
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:83
+Rear Right:84
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:64
+Front Right:65
+Rear Left:83
+Rear Right:84
+-----------------------------
+Negative Pitch:-20.00
+-----------------------------
+Front Left:63
+Front Right:64
+Rear Left:83
+Rear Right:84
+-----------------------------
+Negative Pitch:-19.72
+-----------------------------
+Front Left:65
+Front Right:66
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-19.28
+-----------------------------
+Front Left:65
+Front Right:66
+Rear Left:81
+Rear Right:82
+-----------------------------
+Negative Pitch:-18.80
+-----------------------------
+Front Left:66
+Front Right:67
+Rear Left:81
+Rear Right:82
+-----------------------------
+Ngaie Pitch:-17.96
+-----------------------------
+Front Left:67
+Front Right:68
+Rear Left:80
+Rear Right:81
+-----------------------------
+Negative Pitch:-17.68
+-----------------------------
+Front Left:65
+Front Right:66
+Rear Left:81
+Rear Right:82
+-----------------------------
+Negative Pith:-7.48
+-----------------------------
+Front Left:65
+Front Right:66
+Rear Left:82
+Rear Right:83
+-----------------------------
+Negative Pitch:-16.72
+-----------------------------
+Front Left:67
+Front Right:68
+Rear Left:80
+Rear Right:81
+-----------------------------
+Negative Pitch:-15.84
+-----------------------------
+Front Left:68
+Front Right:69
+Rear Left78
+ea Right:79
+-----------------------------
+Negative Pitch:-15.28
+-----------------------------
+Front Left:66
+Front Right:67
+Rear Left:80
+Rear Right:81
+-----------------------------
+Negative Pitch:-14.08
+-----------------------------
+Front Left:70
+Front Right:71
+Rear Left:77
+Rear Right:78
+-----------------------------
+Negative Pitch:-12.60
+-----------------------------
+Front Left:70
+Front Right:71
+Rear Left:76
+Rear Right:77
+-----------------------------
+Negative Pitch:-10.92
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:75
+Rear Right:76
+-----------------------------
+Negative Pitch:-9.96
+-----------------------------
+Front Left:70
+Front Right:71
+Rear Left:76
+Rear Right:77
+-----------------------------
+Negative Pitch:-9.20
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Negative Pitch:-8.48
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:77
+Rear Right:78
+-----------------------------
+Negative Pitch:-8.08
+-----------------------------
+Front Left:68
+Front Right:69
+Rear Left:79
+Rear Right:80
+-----------------------------
+Negative Pitch:-7.52
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:77
+Rear Right:78
+-----------------------------
+Negative Pitch:-7.16
+-----------------------------
+Front Left:68
+Front Right:69
+Rear Left:79
+Rear Right:80
+-----------------------------
+Negative Pitch:-6.72
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Negative Pitch:-6.04
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:77
+Rear Right:78
+-----------------------------
+Negative Pitch:-5.20
+-----------------------------
+Front Left:70
+Front Right:71
+Rear Left:76
+Rear Right:77
+-----------------------------
+Negative Pitch:-4.32
+-----------------------------
+Front Left:71
+Front Right:72
+Rear Left:75
+Rear Right:76
+-----------------------------
+Negative Pitch:-3.12
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:75
+Rear Right:76
+-----------------------------
+Negative Pitch:-216
+--------------------------
+Front Left:73
+Front Right:74
+Rear Left:74
+Rear Right:75
+-----------------------------
+Front Left:73
+Front Right:74
+Rear Left:73
+Rear Right:74
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:74
+Rear Right:75
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:77
+Rear Right:78
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:77
+Rear Right:78
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Rgh:7-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+FotLeft:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70Rer Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:69
+Front Right:70
+Rear Left:78
+Rear Right:79
+-----------------------------
+Front Left:70
+Front Right:71
+Rear Left:76
+Rear Right:78
+-----------------------------
+Front Left:70
+Front Right:71
+Rear Left:77
+Rear Right:78
+-----------------------------
+Front Left:73
+Front Right:74
+Rear Left:74
+Rear Right:75
+-----------------------------
+Positive Pitch:1.24
+-----------------------------
+Front Left:71
+Front Right:72
+Rear Left:75
+Rear Right:76
+-----------------------------
+Positive Pitch:1.64
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:75
+Rear Right:76
+-----------------------------
+Positive Pitch:2.84
+-----------------------------
+Front Left:74
+Front Right:75
+Rear Left:73
+Rear Right:74
+----------------------------
+Positive Pitch:3.28
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:75
+Rear Right:76
+-----------------------------
+Positive Pitch:4.52
+-----------------------------
+Front Left:74
+Front Right:75
+Rear Left:72
+Rear Right:73
+-----------------------------
+Positive Pitch:5.44
+-----------------------------
+Front Left:75
+Front Right:76
+Rear Left:72
+Rear Right:73
+-----------------------------
+Positive Pitch:6.64
+-----------------------------
+Front Left:75
+Front Right:76
+Rear Left:72
+Rear Right:73
+-----------------------------
+Positive Pitch:7.36
+-----------------------------
+Front Left:74
+Front Right:75
+Rear Left:72
+Rear Right:73
+-----------------------------
+Positive Pitch:8.36
+-----------------------------
+Front Left:75
+Front Right:76
+Rear Left:72
+Rear Right:73
+-----------------------------
+Positive Pitch:9.08
+-----------------------------
+Front eft74
+Front Right:75
+Rear Left:73
+Rear Right:74
+-----------------------------
+Positive Pitch:9.84
+-----------------------------
+Front Left:75
+Front Right:76
+Rear Left:71
+Rear Right:72
+-----------------------------
+Positive Pitch:10.64
+-----------------------------
+Front Left:75
+Front Right:76
+Rear Left:72
+Rear Right:73
+----------------------------
+Positive Pitch:11.36
+-----------------------------
+Front Left:75
+Front Right:76
+Rear Left:71
+Rear Right:72
+-----------------------------
+Positive Pitch:11.96
+-----------------------------
+Front Left:74
+Front Right:76
+Rear Left:72
+Rear Right:73
+-----------------------------
+Positive Pitch:13.16
+-----------------------------
+Front Left:78
+Front Right:79
+Rear Left:68
+Rear Right:69
+-----------------------------
+Positive Pitch:14.72
+-----------------------------
+Front Left:79
+Front Right:80
+Rear Left:68
+Rear Right:69
+-----------------------------
+Positive Pitch:15.40
+-----------------------------
+Front Left:76
+Front Right:78
+Rear Left:70
+Rear Right:71
+-----------------------------
+Positive Pitch:16.44
+-----------------------------
+Front Left:78
+Front Right:79
+Rear Left:69
+Rear Right:70
+-----------------------------
+Positive Pitch:17.48
+-----------------------------
+Front Left:78
+Front Right:79
+Rear Left:69
+Rear Right:70
+-----------------------------
+Positive Pitch:18.40
+-----------------------------
+Front Left:79
+Front Right:80
+Rear Left:68
+Rear Right:69
+-----------------------------
+Positive Pitch:19.16
+-----------------------------
+Front Left:78
+Front Right:79
+Rear Left:69
+Rear Right:70
+-----------------------------
+Positive Pitch:19.96
+-----------------------------
+Front Left:79
+Front Right:80
+Rear Left:68
+Rear Right:69
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:75
+Front Right:76
+Rear Left:71
+Rear Right:72
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:75
+Front Right:76
+Rear Left:71
+Rear Right:72
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:75
+Front Right:76
+Rear Left:71
+Rear Right:72
+-----------------------------
+Posiive Pitch:20.00
+-----------------------------
+Front Left:75
+Front Right:76
+Rear Left:71
+Rear Right:72
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:75
+Front Right:76
+Rear Left:71
+Rear Right:72
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:75
+Front Right:76
+ear Left:71
+Rear Right:72
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:75
+Front Right:76
+Rear Left:71
+Rear Right:72
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:75
+Front Right:77
+Rear Left:71
+Rear Right:72
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:76
+Front Right:77
+Rear Left:71
+Rear Right:72
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:76
+Front Right:77
+Rear Left:71
+Rear Right:72
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:76
+Front Right:77
+Rear Left:71
+Rear Right:72
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:76
+Front Right:77
+Rear Left:71
+Rear Right:72
+-----------------------------
+Positive Pitch:20.0---------------------------
+Front Left:76
+Front Right:77
+Rear Left:71
+Rear Right:72
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:76
+Front Right:77
+Rear Left:71
+Rear Right:72
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:76
+Front Right:77
+Rear Left:71
+Rear Right:72
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:76
+Front Right:77
+Rear Left:71
+Rear Right:72
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:76
+Front Right:77
+Rear Left:71
+Rear Right:72
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:76
+Front Right:77
+Rear Left:71
+Rear Right:72
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:76
+Front Right:77
+Rear Left:70
+Rear Right:72
+-----------------------------
+Positie Pitch:20.00
+-----------------------------
+Front Left:76
+Front Right:77
+Rear Left:70
+Rear Right:71
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:76
+Front Right:77
+Rear Left:70
+Rear Right:71
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:76
+Front Right:77
+Rear Left:70
+Rar Right71
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:76
+Front Right:77
+Rear Left:70
+Rear Right:71
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:76
+Front Right:77
+Rear Left:70
+Rear Right:71----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:76
+Front Right:77
+Rear Left:70
+Rear Right:71
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:76
+Front Right:77
+Rear Left:70
+Rear Right:71
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:76
+Front Right:77
+Rear Left:70
+Rear Right:71
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:76
+Front Right:77
+Rear Left:70
+Rear Right:71
+-----------------------------
+Positive Pitch:20.00
+--------------------------
+Front Left:76
+Front Right:78
+Rear Left:70
+Rear Right:71
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:76
+Front Right:78
+Rear Left:70
+Rear Right:71
+-----------------------------
+Positive Pitch:20.00
+-----------------------------
+Front Left:77
+Front Right:78
+Rear Left:70
+Rear Right:71
+-------------------------
+PositFront Left:79
+Front Right:77
+Rear Left:70
+Rear Right:69
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:73
+Front Right:74
+Rear Left:73
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:73
+Rear Left:74
+Rear Right:73
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:7
+Rea Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74RerLeft:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+Front Left:74
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Positive Yaw:15.51
+-----------------------------
+Front Left:73
+Front Right:74
+Rear Left:74
+Rear Right:73
+-----------------------------
+Positive Yaw:19.12
+-----------------------------
+Front Left:73
+Front Right:74
+Rear Left:75
+Rear Right:73
+-----------------------------
+Positive Yaw:29.58
+-----------------------------
+Front Left:73
+Front Right:74
+Rear Left:75
+Rear Right:73
+-----------------------------
+Positive Yaw:38.24
+-----------------------------
+Front Left:72
+Front Right:75
+Rear Left:75
+Rear Right:73
+-----------------------------
+Positive Yaw:45.09
+-----------------------------
+Front Left:72
+Front Right:75
+Rear Left:75
+Rear Right:73
+-----------------------------
+Positive Yaw:53.75
+-----------------------------
+Front Left:2
+Front Right:75
+Rear Left:76
+Rear Right:72
+-----------------------------
+Positive Yaw:64.21
+-----------------------------
+Front Left:72
+Front Right:75
+Rear Left:76
+Rear Right:72
+-----------------------------
+Positive Yaw:69.26
+-----------------------------
+Front Left:71
+Front Right:76
+Rear Left:76
+Rear Right:72
+-----------------------------
+Positive Yaw:75.03
+-----------------------------
+Front Left:71
+Front Right:76
+Rear Left:76
+Rear Right:72
+-----------------------------
+Positive Yaw:79.72
+-----------------------------
+Front Left:71
+Front Right:76
+Rear Left:77
+Rear Right:71
+-----------------------------
+Positive Yaw:89.82
+-----------------------------
+Front Left:71
+Front Right:76
+Rear Left:77
+Rear Right:71
+-----------------------------
+Positive Yaw:100.28
+-----------------------------
+Front Left:70
+Front Right:77
+Rear Left:77
+Rear Right:71
+-----------------------------
+Positive Yaw:111.46
+-----------------------------
+Front Lf:7
+t��� Right:77
+Rear Left:77
+Rear Right:70
+-----------------------------
+Positive Yaw:120.12
+-----------------------------
+Front Left:69
+Front Right:77
+Rear Left:78
+Rear Right:70
+-----------------------------
+Positive Yaw:132.02
+-----------------------------
+Front Left:69
+Front Right:78
+Rear Left:78
+Rear Right:69
+-----------------------------
+Positive Yaw:139.60
+-----------------------------
+Front Left:69
+Front Right:78
+Rear Left:79
+Rear Right:69
+-----------------------------
+Positive Yaw:144.65
+-----------------------------
+Front Left:68
+Front Right:78
+Rear Left:79
+Rear Right:69
+-----------------------------
+Positive Yaw:154.75
+-----------------------------
+Front Left:68
+Front Right:79
+Rear Left:79
+Rear Right:68
+-----------------------------
+Positive Yaw:163.41
+-----------------------------
+Front Left:68
+Front Right:79
+Rear Left:80
+Rear Right:68
+-----------------------------
+Positive Yaw:172.79
+-----------------------------
+Front Left:67
+Front Right:79
+Rear Left:80
+Rear Right:68
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:67
+Front Right:80
+Rear Left:80
+Rear Right:67
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:66
+Front Right:80
+Rear Left:80
+Rear Right:67
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:67
+Front Right:80
+Rear Left:81
+Rear Right:67
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:66
+Front Righ:80Rar Left:81
+Rear Right:67
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:66
+Front Right:80
+Rear Left:81
+Rear Right:67
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:66
+Front Right:80
+Rear Left:81
+Rear Right:67
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:66
+Front Right:81
+Rear Left:81
+Rear Right:66
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:66
+Front Right:81
+Rear Left:82
+Rear Right:66
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:66
+Front Right:81
+Rear Left:82
+Rear Right:66
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:65
+Front Right:81
+Rear Left:82
+Rear Right:66
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:65
+Front Rih:8Rar Left:82
+Rear Right:66
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:65
+Front Right:81
+Rear Left:82
+Rear Right:66
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:82
+Rear Right:66
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:82
+Rear Right:65
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:65
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:64
+Front Right:82
+Rear Left:83
+Rear Right:65
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:64
+Front Right:82
+Rear Left:83
+Rear Right:65
+-----------------------------
+Posiive Yaw:180.00
+-----------------------------
+Front Left:64
+Front Right:82
+Rear Left:83
+Rear Right:65
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:64
+Front Right:82
+Rear Left:83
+Rear Right:65
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:64
+Front Right:8Rar Left:83
+Rear Right:65
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:64
+Front Right:83
+Rear Left:84
+Rear Right:65
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:64
+Front Right:83
+Rear Left:8
+Rar Right:64
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:64
+Front Right:83
+Rear Left:84
+Rear Right:64
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:63
+Front Right:83
+Rear Left:84
+Rear Right:64
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:63
+Front Right:84
+Rear Left:84
+Rear Right:64
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:63
+Front Right:84
+Rear Left:85
+Rear Right:64
+-----------------------------
+Posiiv aw180.00
+-----------------------------
+Front Left:63
+Front Right:84
+Rear Left:85
+Rear Right:64
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:63
+Front Right:84
+Rear Left:85
+Rear Right:64
+-----------------------------
+Positive Yaw:10.0j----------------------------
+Front Left:63
+Front Right:84
+Rear Left:85
+Rear Right:63
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:62
+Front Right:84
+Rear Left:85
+Rear Right:63
+-----------------------------
+Positive Yaw:180.00
+-----------------------------
+Front Left:62
+Front Right:84
+Rear Left:85
+Rear Right:63
+-----------------------------
+Positive Yaw:179.64
+-----------------------------
+Front Left:62
+Front Right:85
+Rear Left:86
+Rear Right:63
+-----------------------------
+Positive Yaw:172.42
+-----------------------------
+Front Left:62
+Front Right:85
+Rear Left:85
+Rear Right:63
+-----------------------------
+Positive Yaw:165.21
+-----------------------------
+Front Left:62
+Front Right:84
+Rear Left:85
+Rear Right:63
+-----------------------------
+Positive Yaw:160.16
+-----------------------------
+Front Left:62
+Front Right:84
+Rear Left:85
+Rear Right:63
+-----------------------------
+Positive Yaw:148.98
+-----------------------------
+Front Left:62
+Front Right:84
+Rear Left:85
+Rear Right:63
+-----------------------------
+Positive Yaw:143.57
+-----------------------------
+Front Left:62
+Front Right:84
+Rear Left:85
+Rear Right:63
+-----------------------------
+Positive Yaw:39.60
+-----------------------------
+Front Left:62
+Front Right:84
+Rear Left:85
+Rear Right:63
+-----------------------------
+Positive Yaw:131.66
+-----------------------------
+Front Left:63
+Front Right:84
+Rear Left:85
+Rear Right:63
+-----------------------------
+Positive Yaw:126.61
+-----------------------------
+Front Left:62
+Front Right:84
+Rear Left:85
+Rar Rght:63
+-----------------------------
+Positive Yaw:122.65
+-----------------------------
+Front Left:62
+Front Right:84
+Rear Left:85
+Rear Right:63
+-----------------------------
+Positive Yaw:119.76
+-----------------------------
+Front Left:62
+Front Right:84
+Rear Left:85
+Rear Right:63
+-----------------------------
+Positive Yaw:112.18
+-----------------------------
+Front Left:63
+Front Right:84
+Rear Left:85
+Rear Right:63
+-----------------------------
+Positive Yaw:101.72
+-----------------------------
+Front Left:63
+Front Right:84
+Rear Left:85
+Rear Right:64
+-----------------------------
+Positive Yaw:93.07
+-----------------------------
+Front Left:63
+Front Right:84
+Rear Left:85
+Rear Right:64
+-----------------------------
+Positive Yaw:87.66
+-----------------------------
+Front Left:63
+Front Right:84
+Rear Left:85
+Rear Right:64
+-----------------------------
+Positive Yaw:768---------------------------
+Front Left:63
+Front Right:83
+Rear Left:85
+Rear Right:64
+-----------------------------
+Positive Yaw:66.37
+-----------------------------
+Front Left:63
+Front Right:83
+Rear Left:84
+Rear Right:64
+-----------------------------
+Positive Yaw:61.68
+-----------------------------
+Front Left:63
+Front Right:83
+Rear Left:84
+Rear Right:64
+-----------------------------
+Positive Yaw:56.99
+-----------------------------
+Front Left:64
+Front Right:83
+Rear Left:84
+Rear Right:64
+-----------------------------
+Positive Yaw:48.70
+-----------------------------
+Front Left:64
+Front Right:83
+Rear Left:84
+Rear Right:65
+-----------------------------
+Positive Yaw:42.20
+-----------------------------
+Front Left:64
+Front Right:83
+Rear Left:84
+Rear Right:65
+-----------------------------
+Positive Yaw:37.15
+-----------------------------
+Front Left:64
+Front Right:83
+Rear Left:84
+Rear Right:65
+-----------------------------
+Positive Yaw:29.94
+-----------------------------
+Front Left:64
+Front Right:82
+Rear Left:83
+Rear Right:65
+-----------------------------
+Positive Yaw:25.25
+-----------------------------
+Front Left:64
+Front Right:82
+Rear Left:83
+Rear Right:65
+-----------------------------
+Positive Yaw:20.56
+-----------------------------
+Front Left:64
+Front Right:82
+Rear Left:83
+Rear Right:65
+-----------------------------
+Positive Yaw:16.95
+-----------------------------
+Front Left:64
+Front Right:82
+Rear Left:83
+Rear Right:65
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+--------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+--------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Frntih:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:81
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:81
+Rear Left:83
+Rear Right:65
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:82
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+FrontRight:81
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:81
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:81
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:81
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:81
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:81
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:81
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:81
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:81
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:81
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:81
+Rear Left:83
+Rear Right:66
+-----------------------------
+Front Left:65
+Front Right:81
+Rear Left:83
+Rear Right:66
+-----------------------------
+Negative Yaw:-16.23
+-----------------------------
+Front Left:65
+Front Right:81
+Rear Left:82
+Rear Right:67
+-----------------------------
+Negative Yaw:-23.81
+-----------------------------
+Front Left:66
+Front Right:81
+Rear Left:82
+Rear Right:66
+-----------------------------
+Negative Yaw:-34.99
+-----------------------------
+Front Left:66
+Front Right:81
+Rear Left:82
+Rear Right:67
+-----------------------------
+Negative Yaw:-49.06
+-----------------------------
+Front Left:66
+Front Right:80
+Rear Left:81
+Rear Right:67
+-----------------------------
+Negative Yaw:-55.91
+-----------------------------
+Front Left:66
+Front Right:80
+Rear Left:81
+Rear Right:68
+-----------------------------
+Negative Ya:7.87
+-----------------------------
+Front Left:67
+Front Right:79
+Rear Left:81
+Rear Right:68
+-----------------------------
+Negative Yaw:-83.33
+-----------------------------
+Front Left:67
+Front Right:79
+Rear Left:80
+Rear Right:68
+-----------------------------
+Negative Yaw:-91.26
+-----------------------------
+Front Left:67
+Front Right:79
+Rear Left:80
+Rear Right:69
+-----------------------------
+Negative Yaw:-97.39
+-----------------------------
+Front Left:68
+Front Right:78
+Rear Left:80
+Rear Right:69
+-----------------------------
+Negative Yaw:-104.97
+-----------------------------
+Front Left:68
+Front Right:78
+Rear Left:80
+Rear Right:69
+-----------------------------
+Negative Yaw:-112.18
+-----------------------------
+Front Left:68
+Front Right:78
+Rear Left:79
+Rear Right:70
+-----------------------------
+Negative Yaw:-118.68
+-----------------------------
+Front Left:69
+Front Right:78
+Rear Left:79
+Rear Right:70
+-----------------------------
+Negative Yaw:-131.30
+-----------------------------
+Front Left:69
+Front Right:77
+Rear Left:79
+Rear Right:70
+-----------------------------
+Negative Yaw:-139.24
+-----------------------------
+Front Left:69
+Front Right:77
+Rear Left:78
+Rear Right:71
+-----------------------------
+Negatie Yw:144.29
+-----------------------------
+Front Left:69
+Front Right:77
+Rear Left:78
+Rear Right:71
+-----------------------------
+Negative Yaw:-152.95
+-----------------------------
+Front Left:70
+Front Right:76
+Rear Left:78
+Rear Right:71
+-----------------------------
+Negative Yaw:-158.72
+-----------------------------
+Front Left:70
+Front Right:76
+Rear Let78Rear Right:71
+-----------------------------
+Negative Yaw:-164.49
+-----------------------------
+Front Left:70
+Front Right:76
+Rear Left:77
+Rear Right:72
+-----------------------------
+Negative Yaw:-165.57
+-----------------------------
+Front Left:71
+Front Right:75
+Rear Left:77
+Rear Right:72
+-----------------------------
+Negative Yaw:-167.74
+-----------------------------
+Front Left:71
+Front Right:75
+Rear Left:77
+Rear Right:72
+-----------------------------
+Negative Yaw:-172.42
+-----------------------------
+Front Left:71
+Front Right:75
+Rear Left:76
+Rear Right:73
+-----------------------------
+Negative Yaw:-174.95
+-----------------------------
+Front Left:72
+Front Right:75
+Rear Left:76
+Rear Right:73
+-----------------------------
+Negative Yaw:-177.47
+-----------------------------
+Front Left:71
+Front Right:75
+Rear Left:76
+Rear Right:73
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:72
+Front Right:74
+Rear Left:76
+Rear Right:73
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:72
+Front Right:74
+Rear Left:76
+Rear Right:73
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:72
+Front Right:74
+Rear Left:75
+Rear Right:73
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:72
+Front Right:74
+Rear Left:75
+Rear Right:74
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:72
+Front Right:74
+Rear Left:75
+Rear Right:74
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:72
+Front Right:73
+Rear Left:75
+Rear Right:74
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:75
+Rear Right:74
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:75
+Rear Right:74
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:74
+-----------------------------
+Negtive Yaw:-179.64
+-----------------------------
+Front Left:73
+Front Right:72
+Rear Left:74
+Rear Right:74
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:73
+Front Right:73
+Rear Left:74
+Rear Right:75
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:73
+Front Right:7RerLeft:74
+Rear Right:75
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:73
+Front Right:72
+Rear Left:74
+Rear Right:75
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:74
+Front Right:72
+Rear Left:74RarRght:75
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:74
+Front Right:72
+Rear Left:73
+Rear Right:75
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:74
+Rear Right:75
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:74
+Front Right:72
+Rear Left:73
+Rear Right:76
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Negaive Yaw:-179.64
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:75
+Front Right:71
+Rea Left73
+Rear Right:76
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:72
+Rear Right:76
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:75
+Front Right:70
+Rear Left:72
+Rear Rght:76
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:75
+Front Right:70
+Rear Left:72
+Rear Right:77
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:75
+Front Right:70
+Rear Left:72
+Rear Right:77
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:75
+Front Right:70
+Rear Left:72
+Rear Right:77
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:70
+Rear Left:72
+Rear Right:77
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:70
+Rear Left:72
+Rear Right:77
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:70
+Rear Left:71
+Rear Right:77
+-----------------------------
+NegaiveYaw-179.64
+-----------------------------
+Front Left:76
+Front Right:69
+Rear Left:71
+Rear Right:78
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:69
+Rear Left:71
+Rear Right:78
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:69
+Rear Let:1Rar Right:78
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:77
+Front Right:69
+Rear Left:71
+Rear Right:78
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:69
+Rear Left:70
+Rear Right:78
+-----------------------------
+Negative Yaw:-179.64
+-----------------------------
+Front Left:77
+Front Right:69
+Rear Left:70
+Rear Right:78
+-----------------------------
+Negative Yaw:-177.84
+-----------------------------
+Front Left:77
+Front Right:68
+Rear Left:71
+Rear Right:78
+-----------------------------
+Negative Yaw:-171.34
+-----------------------------
+Front Left:77
+Front Right:69
+Rear Left:70
+Rear Right:79
+-----------------------------
+Negative Yaw:-163.41
+-----------------------------
+Front Left:77
+Front Right:69
+Rear Left:71
+Rear Right:78
+-----------------------------
+eative Yaw:-159.44
+-----------------------------
+Front Left:77
+Front Right:69
+Rear Left:70
+Rear Right:79
+-----------------------------
+Negative Yaw:-156.55
+-----------------------------
+Front Left:77
+Front Right:68
+Rear Left:71
+Rear Right:78
+-----------------------------
+Negative Yaw:-151.86
+-----------------------------
+Front Left:77
+Front Right:69
+Rer et:70
+ear Right:79
+-----------------------------
+Negative Yaw:-148.26
+-----------------------------
+Front Left:77
+Front Right:69
+Rear Left:70
+Rear Right:79
+-----------------------------
+Negative Yaw:-142.48
+-----------------------------
+Front Left:77
+Front Right:69
+Rear Left:70
+Rear Right:79
+-----------------------------
+Negative Yaw:-140.68
+-----------------------------
+Front Left:77
+Front Right:68
+Rear Left:70
+Rear Right:79
+-----------------------------
+Negative Yaw:-133.83
+-----------------------------
+Front Left:77
+Front Right:68
+Rear Left:71
+Rear Right:78
+-----------------------------
+Negative Yaw:-129.86
+-----------------------------
+Front Left:77
+Front Right:69
+Rear Left:70
+Rear Right:79
+-----------------------------
+Negative Yaw:-120.48
+-----------------------------
+Front Left:77
+Front Right:69
+Rear Left:70
+Rear Right:79
+-----------------------------
+Negtiv a:-12.55
+-----------------------------
+Front Left:77
+Front Right:69
+Rear Left:71
+Rear Right:78
+-----------------------------
+Negative Yaw:-107.86
+-----------------------------
+Front Left:77
+Front Right:69
+Rear Left:71
+Rear Right:78
+-----------------------------
+Negative Yaw:-101.72
+-----------------------------
+Front Left:76
+Front Right:69
+Rear Lft7Rear Right:78
+-----------------------------
+Negative Yaw:-96.67
+-----------------------------
+Front Left:77
+Front Right:69
+Rear Left:71
+Rear Right:78
+-----------------------------
+Negative Yaw:-89.10
+-----------------------------
+Front Left:76
+Front Right:69
+Rear Left:71
+Rear Right:78
+-----------------------------
+Negative Yaw:-86.93
+-----------------------------
+Front Left:76
+Front Right:69
+Rear Left:71
+Rear Right:78
+-----------------------------
+Negative Yaw:-85.49
+-----------------------------
+Front Left:76
+Front Right:69
+Rear Left:71
+Rear Right:78
+-----------------------------
+Negative Yaw:-79.72
+-----------------------------
+Front Left:76
+Front Right:69
+Rear Left:71
+Rear Right:78
+-----------------------------
+Negative Yaw:-73.95
+-----------------------------
+Front Left:76
+Front Right:69
+Rear Left:71
+Rear Right:78
+-----------------------------
+Negative Yaw:-673
+-----------------------------
+Front Left:76
+Front Right:69
+Rear Left:71
+Rear Right:78
+-----------------------------
+Negative Yaw:-55.91
+-----------------------------
+Front Left:76
+Front Right:70
+Rear Left:72
+Rear Right:78
+-----------------------------
+Negative Yaw:-39.68
+-----------------------------
+Front Left:75
+Front Right:70
+Rear Left:72Rear Rigt:77
+-----------------------------
+Negative Yaw:-27.78
+-----------------------------
+Front Left:75
+Front Right:70
+Rear Left:72
+Rear Right:77
+-----------------------------
+Negative Yaw:-17.68
+-----------------------------
+Front Left:75
+Front Right:70
+Rear Left:72
+Rear Right:77
+-----------------------------
+Negative Yaw:-14.79
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:72
+Rear Right:77
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:73
+Rear Right:76---------------------------
+Front Left:74
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:9Frot Right:77
+Rear Left:77
+Rear Right:46
+-----------------------------
+Front Left:56
+Front Right:67
+Rear Left:67
+Rear Right:104
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:75
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:75
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+RearRigt:76
+-----------------------------
+Front Left:75
+Front Right:70
+Rear Left:73
+Rear Right:75
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Frnt Let:74
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:75
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:74
+Front Rigt:1
+ear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:70
+Rear Left:73
+Rear Right:75
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right70
+ea Left:73
+Rear Right:75
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:74
+Front Right:70
+Rear Left:73
+Rear Right:75
+-----------------------------
+Front Left:74
+Front Right:70
+Rear Left:73
+Rear Right:75
+-----------------------------
+Front Left:75
+Front Right:70
+Rear Left:73
+Rear Right:75
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:72
+Rear Right:76
+-----------------------------
+Front Left:74
+Front Right:70
+Rear Left:73
+Rear Right:76
+-----------------------------
+Front Left:75
+Front Right:70
+Rear Left:73
+RearRight:75
+----------------------------
+Front Left:74
+Front Right:70
+Rear Left:73
+Rear Right:75
+-----------------------------
+Front Left:74
+Front Right:71
+Rear Left:72
+Rear Right:76
+-----------------------------
+Front Left:70
+Front Right:66
+Rear Left:68
+Rear Right:71
+-----------------------------
+Front Left:60
+Front Right:56
+Rear Left:58
+Rear Right:61
+-----------------------------
+Front Left:58
+Front Right:53
+Rear Left:56
+Rear Right:58
+-----------------------------
+Front Left:55
+Front Right:52
+Rear Left:54
+Rear Right:57
+-----------------------------
+Front Left:55
+Front Right:51
+Rear Left:54
+Rear Right:56
+-----------------------------
+Front Left:55
+Front Right:51
+Rear Left:54
+Rear Right:56
+-----------------------------
+Front Left:55
+Front Right:51
+Rear Left:53
+Rear Right:56
+-----------------------------
+Front Left:55
+Front Right:51
+Rear Left:53
+Rear Right:56
+-----------------------------
+Front Left:55
+Front Right:51
+Rear Left:53
+Rear Right:56
+-----------------------------
+Front Left:55
+Front Right:51
+Rear Left:53
+Rear Right:56
+-----------------------------
+Front Left:55
+Front Right:51
+Rear Left:54
+Rear Right:56
+-------------------------
+Front Left:54
+Front Right:51
+Rear Left:53
+Rear Right:56
+-----------------------------
+Front Left:53
+Front Right:48
+Rear Left:51
+Rear Right:53
+-----------------------------
+Front Left:51
+Front Right:48
+Rear Left:49
+Rear Right:53
+-----------------------------
+Front Left:47
+Front Right:44
+Rear Left:46
+Rear Right:49
+-------------------------
+Front Left:45
+Front Right:41
+Rear Left:44
+Rear Right:46
+-----------------------------
+Front Left:43
+Front Right:40
+Rear Left:42
+Rear Right:45
+-----------------------------
+Front Left:42
+Front Right:38
+Rear Left:41
+Rear Right:44
+-----------------------------
+Front Left:39
+Front Right:35
+Rear Left:38
+Rear Right:40
+-----------------------------
+Front Left38
+Fot Right:34
+Rear Left:36
+Rear Right:39
+-----------------------------
+Front Left:38
+Front Right:34
+Rear Left:36
+Rear Right:39
+-----------------------------
+Front Left:36
+Front Right:33
+Rear Left:35
+Rear Right:38
+-----------------------------
+Front Left:36
+Front Right:32
+Rear Left:35
+Rear Right:37
+-----------------------------
+Front Left:33
+Front Right:29
+Rear Left:32
+Rear Right:35
+-----------------------------
+Front Left:29
+Front Right:26
+Rear Left:27
+Rear Right:31
+-----------------------------
+Front Left:27
+Front Right:23
+Rear Left:25
+Rear Right:28
+-----------------------------
+Front Left:24
+Front Right:20
+Rear Left:23
+Rear Right:26
+-----------------------------
+Front Left:24
+Front Right:20
+Rear Left:22
+Rear Right:25
+----------------------------
+Front Left:23
+Front Right:20
+Rear Left:22
+Rear Right:25
+-----------------------------
+Front Left:22
+Front Right:18
+Rear Left:21
+Rear Right:23
+-----------------------------
+Front Left:19
+Front Right:15
+Rear Left:17
+Rear Right:21
+-----------------------------
+Front Left:16
+Front Right:12
+Rear Left:14
+Rear Right:17
+-----------------------------
+Front Left:14
+Front Right:10
+Rear Left:13
+Rear Right:15
+-----------------------------
+Front Left:11
+Front Right:8
+Rear Left:10
+Rear Right:13
+-----------------------------

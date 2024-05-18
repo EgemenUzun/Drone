@@ -4,7 +4,7 @@ struct ReceiverRawValues {
 struct ReceiverCommands {
   bool Armed;
   bool Error;
-  int Throttle;
+  double Throttle;
   double YawAngleChange;
   double PitchAngle;
   double RollAngle;
@@ -13,3 +13,5 @@ struct ReceiverCommands {
 };
 void initializeReciver();
 struct ReceiverCommands GetReceiverCommands();
+struct ReceiverRawValues getReceiverRawValues();
+double map_double(double x, double in_min, double in_max, double out_min, double out_max);
