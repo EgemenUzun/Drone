@@ -1,0 +1,4351 @@
+--- Terminal on COM7 | 115200 8-N-1
+--- Available filters and text transformations: colorize, debug, default, direct, hexlify, log2file, nocontrol, printable, send_on_enter, time
+--- More details at https://bit.ly/pio-monitor-filters
+--- Quit: Ctrl+C | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H
+MPU values: Error:0,Yaw:-1.77,Pitch:0.43,Roll:-2.69
+Front Left:13
+Front Right:12
+Rear Left:14
+Rear Right:12
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.43,Roll:-2.69
+Front Left:16
+Front Right:15
+Rear Left:17
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.43,Roll:-2.69
+Front Left:17
+Front Right:15
+Rear Left:17
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.43,Roll:-2.69
+Front Left:20
+Front Right:18
+Rear Left:20
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.43,Roll:-2.69
+Front Left:23
+Front Right:21
+Rear Left:23
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.43,Roll:-2.68
+Front Left:23
+Front Right:21
+Rear Left:23
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.42,Roll:-2.68
+Front Left:23
+Front Right:21
+Rear Left:23
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.42,Roll:-2.67
+Front Left:23
+Front Right:21
+Rear Left:23
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.42,Roll:-2.67
+Front Left:23
+Front Right:21
+Rear Left:23
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.41,Roll:-2.66
+Front Left:24
+Front Right:22
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.41,Roll:-2.66
+Front Left:24
+Front Right:22
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.41,Roll:-2.67
+Front Left:24
+Front Right:22
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.40,Roll:-2.66
+Front Left:24
+Front Right:22
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.41,Roll:-2.66
+Front Left:24
+Front Right:22
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.41,Roll:-2.66
+Front Left:24
+Front Right:22
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.40,Roll:-2.66
+Front Left:24
+Front Right:22
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.41,Roll:-2.66
+Front Left:24
+Front Right:22
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.40,Roll:-2.65
+Front Left:24
+Front Right:22
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.39,Roll:-2.65
+Front Left:24
+Front Right:22
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.39,Roll:-2.64
+Front Left:24
+Front Right:22
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.39,Roll:-2.65
+Front Left:24
+Front Right:22
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.39,Roll:-2.64
+Front Left:24
+Front Right:22
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.39,Roll:-2.64
+Front Left:24
+Front Right:22
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.39,Roll:-2.64
+Front Left:24
+Front Right:22
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.38,Roll:-2.64
+Front Left:24
+Front Right:21
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.38,Roll:-2.62
+Front Left:24
+Front Right:21
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.38,Roll:-2.63
+Front Left:24
+Front Right:22
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.38,Roll:-2.63
+Front Left:24
+Front Right:22
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.38,Roll:-2.62
+Front Left:24
+Front Right:22
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.38,Roll:-2.62
+Front Left:24
+Front Right:22
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.37,Roll:-2.61
+Front Left:24
+Front Right:22
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.37,Roll:-2.62
+Front Left:24
+Front Right:21
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.37,Roll:-2.62
+Front Left:24
+Front Right:21
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.37,Roll:-2.61
+Front Left:24
+Front Right:21
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.37,Roll:-2.60
+Front Left:24
+Front Right:21
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.37,Roll:-2.60
+Front Left:24
+Front Right:21
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.77,Pitch:0.37,Roll:-2.61
+Front Left:24
+Front Right:22
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.37,Roll:-2.61
+Front Left:24
+Front Right:21
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.37,Roll:-2.59
+Front Left:24
+Front Right:21
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.37,Roll:-2.59
+Front Left:24
+Front Right:21
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.37,Roll:-2.59
+Front Left:24
+Front Right:21
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.36,Roll:-2.61
+Front Left:24
+Front Right:21
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.37,Roll:-2.59
+Front Left:24
+Front Right:21
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.36,Roll:-2.59
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.37,Roll:-2.59
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.36,Roll:-2.59
+Front Left:24
+Front Right:21
+Rear Left:24
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.36,Roll:-2.59
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.36,Roll:-2.59
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.36,Roll:-2.58
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.36,Roll:-2.58
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.35,Roll:-2.57
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.35,Roll:-2.59
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.35,Roll:-2.57
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.35,Roll:-2.57
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.34,Roll:-2.59
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.35,Roll:-2.57
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.35,Roll:-2.57
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.35,Roll:-2.57
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.35,Roll:-2.57
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.35,Roll:-2.56
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.34,Roll:-2.58
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.34,Roll:-2.57
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.34,Roll:-2.58
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.34,Roll:-2.57
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.34,Roll:-2.57
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.34,Roll:-2.56
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.34,Roll:-2.56
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.34,Roll:-2.57
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.56
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.56
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.34,Roll:-2.56
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.55
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.55
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.34,Roll:-2.54
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.34,Roll:-2.55
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.55
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.34,Roll:-2.54
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.56
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.55
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.55
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.55
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.55
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.53
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.55
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.54
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.32,Roll:-2.55
+Front Left:24
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.53
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.54
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.53
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:21
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:21
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:21
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:21
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.55
+Front Left:25
+Front Right:21
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:21
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:21
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.53
+Front Left:25
+Front Right:21
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:21
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:21
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.53
+Front Left:25
+Front Right:20
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.52
+Front Left:25
+Front Right:20
+Rear Left:25
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.53
+Front Left:25
+Front Right:21
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.52
+Front Left:25
+Front Right:21
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.53
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.52
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.54
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.53
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.52
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.55
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.53
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.52
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.52
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.53
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.53
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.31,Roll:-2.52
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.31,Roll:-2.52
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.52
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.52
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.31,Roll:-2.52
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.52
+Front Left:26
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.32,Roll:-2.52
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.31,Roll:-2.52
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.31,Roll:-2.52
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.52
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.31,Roll:-2.53
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.52
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.31,Roll:-2.54
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.31,Roll:-2.53
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.31,Roll:-2.53
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.30,Roll:-2.53
+Front Left:26
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.31,Roll:-2.52
+Front Left:26
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.31,Roll:-2.52
+Front Left:26
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.31,Roll:-2.52
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.52
+Front Left:26
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.31,Roll:-2.52
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.53
+Front Left:25
+Front Right:20
+Rear Left:26
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.53
+Front Left:26
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.52
+Front Left:26
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.53
+Front Left:25
+Front Right:20
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.52
+Front Left:26
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:26
+Front Right:20
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.53
+Front Left:26
+Front Right:20
+Rear Left:26
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:26
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.53
+Front Left:26
+Front Right:20
+Rear Left:26
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.53
+Front Left:26
+Front Right:20
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:26
+Front Right:20
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:26
+Front Right:20
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.55
+Front Left:26
+Front Right:20
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.55
+Front Left:26
+Front Right:19
+Rear Left:26
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:26
+Front Right:20
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.31,Roll:-2.54
+Front Left:26
+Front Right:19
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.31,Roll:-2.54
+Front Left:26
+Front Right:20
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.31,Roll:-2.54
+Front Left:26
+Front Right:20
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.52
+Front Left:26
+Front Right:20
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.52
+Front Left:26
+Front Right:19
+Rear Left:26
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.53
+Front Left:26
+Front Right:20
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.54
+Front Left:-54
+Front Right:82
+Rear Left:116
+Rear Right:-53
+-----------------------------
+MPU values: Error:0,Yaw:-109.57,Pitch:27.59,Roll:-19.52
+Front Left:99
+Front Right:-54
+Rear Left:-46
+Rear Right:93
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.31,Roll:-2.53
+Front Left:26
+Front Right:19
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.83,Pitch:0.30,Roll:-2.50
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.36,Roll:-2.52
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.39,Roll:-2.55
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.36,Roll:-2.54
+Front Left:26
+Front Right:19
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.35,Roll:-2.49
+Front Left:81
+Front Right:-36
+Rear Left:-30
+Rear Right:79
+-----------------------------
+MPU values: Error:0,Yaw:1.84,Pitch:1.78,Roll:1.83
+Front Left:-36
+Front Right:81
+Rear Left:89
+Rear Right:-42
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.44
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.33,Roll:-2.45
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.45
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.33,Roll:-2.45
+Front Left:26
+Front Right:19
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.33,Roll:-2.46
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.33,Roll:-2.45
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:22
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.33,Roll:-2.45
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.46
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.33,Roll:-2.47
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.46
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.47
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.33,Roll:-2.47
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.47
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.47
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.46
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.33,Roll:-2.47
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.47
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.47
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.33,Roll:-2.47
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.46
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.47
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.32,Roll:-2.48
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.33,Roll:-2.47
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.48
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.48
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.32,Roll:-2.49
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.49
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.49
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.33,Roll:-2.49
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.33,Roll:-2.49
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.32,Roll:-2.48
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.33,Roll:-2.47
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.32,Roll:-2.49
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.32,Roll:-2.47
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.33,Roll:-2.47
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.32,Roll:-2.48
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.48
+Front Left:27
+Front Right:18
+Rear Left:26
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.31,Roll:-2.50
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.32,Roll:-2.47
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.32,Roll:-2.47
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.47
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.31,Roll:-2.47
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.30,Roll:-2.47
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.48
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.31,Roll:-2.49
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.48
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.49
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.48
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.50
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.48
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.30,Roll:-2.48
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.30,Roll:-2.48
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.48
+Front Left:27
+Front Right:17
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.48
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.48
+Front Left:27
+Front Right:17
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.30,Roll:-2.50
+Front Left:27
+Front Right:17
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.30,Roll:-2.50
+Front Left:27
+Front Right:17
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.50
+Front Left:27
+Front Right:17
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.49
+Front Left:27
+Front Right:17
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.49
+Front Left:27
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.49
+Front Left:27
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.50
+Front Left:27
+Front Right:18
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.51
+Front Left:28
+Front Right:17
+Rear Left:27
+Rear Right:21
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.50
+Front Left:27
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.30,Roll:-2.50
+Front Left:27
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.50
+Front Left:27
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.51
+Front Left:27
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.51
+Front Left:27
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.51
+Front Left:28
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.50
+Front Left:27
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.51
+Front Left:28
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.50
+Front Left:27
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.51
+Front Left:28
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.52
+Front Left:28
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.52
+Front Left:27
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.51
+Front Left:28
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.51
+Front Left:28
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.32,Roll:-2.52
+Front Left:28
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.51
+Front Left:28
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.51
+Front Left:28
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.52
+Front Left:28
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.51
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.51
+Front Left:28
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.30,Roll:-2.51
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.52
+Front Left:28
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.52
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.52
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:27
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.32,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.51
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.52
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.51
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.51
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.51
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.51
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.52
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.52
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.51
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.51
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.51
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.52
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.51
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.52
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.50
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.52
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.52
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.52
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.52
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.54
+Front Left:28
+Front Right:17
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.53
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.51
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.52
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.52
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.51
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.52
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.52
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.52
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.52
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.54
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.52
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.52
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.54
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.54
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.30,Roll:-2.53
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.52
+Front Left:29
+Front Right:16
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.31,Roll:-2.54
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.53
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.31,Roll:-2.53
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.52
+Front Left:29
+Front Right:16
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.32,Roll:-2.52
+Front Left:28
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.52
+Front Left:28
+Front Right:16
+Rear Left:28
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.54
+Front Left:29
+Front Right:16
+Rear Left:28
+Rear Right:20
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.53
+Front Left:29
+Front Right:16
+Rear Left:28
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.53
+Front Left:29
+Front Right:16
+Rear Left:28
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.52
+Front Left:29
+Front Right:16
+Rear Left:28
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.52
+Front Left:29
+Front Right:16
+Rear Left:28
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.52
+Front Left:29
+Front Right:16
+Rear Left:28
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.54
+Front Left:28
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.52
+Front Left:29
+Front Right:16
+Rear Left:28
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.52
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.54
+Front Left:28
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.52
+Front Left:29
+Front Right:16
+Rear Left:28
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.53
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.52
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.52
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.53
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.52
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.51
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.52
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.53
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.52
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.53
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.52
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.53
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.52
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.53
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.54
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.33,Roll:-2.52
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.53
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.54
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.33,Roll:-2.52
+Front Left:29
+Front Right:15
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.54
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.53
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.32,Roll:-2.52
+Front Left:29
+Front Right:15
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.33,Roll:-2.54
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.33,Roll:-2.53
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.33,Roll:-2.53
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.33,Roll:-2.53
+Front Left:29
+Front Right:15
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.33,Roll:-2.52
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.33,Roll:-2.52
+Front Left:29
+Front Right:15
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.34,Roll:-2.53
+Front Left:29
+Front Right:15
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.33,Roll:-2.53
+Front Left:29
+Front Right:15
+Rear Left:29
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.33,Roll:-2.54
+Front Left:-49
+Front Right:93
+Rear Left:105
+Rear Right:-58
+-----------------------------
+MPU values: Error:0,Yaw:180.00,Pitch:0.00,Roll:0.00
+Front Left:100
+Front Right:-55
+Rear Left:-42
+Rear Right:90
+-----------------------------
+MPU values: Error:0,Yaw:-1.84,Pitch:0.33,Roll:-2.52
+Front Left:28
+Front Right:17
+Rear Left:30
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.83,Pitch:0.28,Roll:-2.51
+Front Left:28
+Front Right:16
+Rear Left:30
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.82,Pitch:0.28,Roll:-2.51
+Front Left:29
+Front Right:16
+Rear Left:29
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.78,Pitch:0.24,Roll:-2.53
+Front Left:27
+Front Right:17
+Rear Left:31
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.82,Pitch:0.21,Roll:-2.49
+Front Left:28
+Front Right:17
+Rear Left:30
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.83,Pitch:0.21,Roll:-2.50
+Front Left:28
+Front Right:16
+Rear Left:30
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.22,Roll:-2.51
+Front Left:28
+Front Right:17
+Rear Left:30
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.22,Roll:-2.50
+Front Left:28
+Front Right:17
+Rear Left:31
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.83,Pitch:0.22,Roll:-2.52
+Front Left:-53
+Front Right:76
+Rear Left:124
+Rear Right:-53
+-----------------------------
+MPU values: Error:0,Yaw:-21.58,Pitch:95.77,Roll:-141.34
+Front Left:101
+Front Right:-58
+Rear Left:-42
+Rear Right:91
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.23,Roll:-2.51
+Front Left:29
+Front Right:15
+Rear Left:31
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.83,Pitch:0.22,Roll:-2.52
+Front Left:29
+Front Right:14
+Rear Left:30
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.82,Pitch:0.23,Roll:-2.52
+Front Left:30
+Front Right:14
+Rear Left:30
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.23,Roll:-2.52
+Front Left:29
+Front Right:14
+Rear Left:30
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.24,Roll:-2.52
+Front Left:29
+Front Right:15
+Rear Left:31
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.83,Pitch:0.24,Roll:-2.52
+Front Left:30
+Front Right:14
+Rear Left:30
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.25,Roll:-2.52
+Front Left:30
+Front Right:14
+Rear Left:30
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.79,Pitch:0.24,Roll:-2.52
+Front Left:29
+Front Right:15
+Rear Left:31
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.82,Pitch:0.24,Roll:-2.52
+Front Left:29
+Front Right:14
+Rear Left:30
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.82,Pitch:0.24,Roll:-2.51
+Front Left:30
+Front Right:14
+Rear Left:30
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.25,Roll:-2.52
+Front Left:29
+Front Right:14
+Rear Left:31
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.25,Roll:-2.52
+Front Left:29
+Front Right:14
+Rear Left:31
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.82,Pitch:0.25,Roll:-2.51
+Front Left:30
+Front Right:14
+Rear Left:30
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.25,Roll:-2.52
+Front Left:30
+Front Right:14
+Rear Left:30
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.25,Roll:-2.52
+Front Left:29
+Front Right:14
+Rear Left:31
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.25,Roll:-2.52
+Front Left:29
+Front Right:14
+Rear Left:31
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.25,Roll:-2.52
+Front Left:30
+Front Right:14
+Rear Left:30
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.25,Roll:-2.53
+Front Left:29
+Front Right:14
+Rear Left:31
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.25,Roll:-2.51
+Front Left:29
+Front Right:14
+Rear Left:31
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.25,Roll:-2.52
+Front Left:30
+Front Right:14
+Rear Left:30
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.25,Roll:-2.52
+Front Left:30
+Front Right:14
+Rear Left:31
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.25,Roll:-2.50
+Front Left:30
+Front Right:14
+Rear Left:31
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.26,Roll:-2.52
+Front Left:29
+Front Right:14
+Rear Left:31
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.26,Roll:-2.51
+Front Left:30
+Front Right:14
+Rear Left:30
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.26,Roll:-2.51
+Front Left:29
+Front Right:14
+Rear Left:31
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.25,Roll:-2.54
+Front Left:30
+Front Right:14
+Rear Left:31
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.28,Roll:-2.50
+Front Left:30
+Front Right:14
+Rear Left:31
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.27,Roll:-2.52
+Front Left:30
+Front Right:14
+Rear Left:31
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.27,Roll:-2.53
+Front Left:30
+Front Right:14
+Rear Left:31
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.27,Roll:-2.52
+Front Left:30
+Front Right:14
+Rear Left:31
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.28,Roll:-2.53
+Front Left:30
+Front Right:13
+Rear Left:30
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.80,Pitch:0.28,Roll:-2.52
+Front Left:29
+Front Right:14
+Rear Left:31
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.28,Roll:-2.52
+Front Left:30
+Front Right:14
+Rear Left:31
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.28,Roll:-2.51
+Front Left:29
+Front Right:13
+Rear Left:30
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.27,Roll:-2.52
+Front Left:29
+Front Right:13
+Rear Left:30
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.81,Pitch:0.27,Roll:-2.51
+MPU values: Error:0,Yaw:-1.62,Pitch:-0.03,Roll:-2.36
+Front Left:13
+Front Right:11
+Rear Left:13
+Rear Right:11
+-----------------------------
+MPU values: Error:0,Yaw:-1.62,Pitch:-0.03,Roll:-2.36
+Front Left:14
+Front Right:13
+Rear Left:14
+Rear Right:13
+-----------------------------
+MPU values: Error:0,Yaw:-1.62,Pitch:-0.03,Roll:-2.36
+Front Left:15
+Front Right:14
+Rear Left:15
+Rear Right:14
+-----------------------------
+MPU values: Error:0,Yaw:-1.62,Pitch:-0.03,Roll:-2.36
+Front Left:16
+Front Right:14
+Rear Left:16
+Rear Right:14
+-----------------------------
+MPU values: Error:0,Yaw:-1.62,Pitch:-0.03,Roll:-2.36
+Front Left:16
+Front Right:15
+Rear Left:16
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.62,Pitch:-0.03,Roll:-2.36
+Front Left:18
+Front Right:16
+Rear Left:18
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.62,Pitch:-0.03,Roll:-2.36
+Front Left:18
+Front Right:17
+Rear Left:18
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.62,Pitch:-0.03,Roll:-2.36
+Front Left:19
+Front Right:17
+Rear Left:19
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.62,Pitch:-0.03,Roll:-2.36
+Front Left:19
+Front Right:18
+Rear Left:19
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.62,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.62,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.62,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.62,Pitch:-0.02,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.02,Roll:-2.37
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.62,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.02,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.02,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.02,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.04,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.04,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:18
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:18
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.37
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.37
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:21
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:18
+Rear Left:21
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.04,Roll:-2.36
+Front Left:22
+Front Right:19
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:19
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:21
+Rear Right:19
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.04,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.04,Roll:-2.36
+Front Left:21
+Front Right:19
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.04,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.04,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.04,Roll:-2.36
+Front Left:22
+Front Right:19
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.04,Roll:-2.37
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.37
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.04,Roll:-2.36
+Front Left:22
+Front Right:19
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.04,Roll:-2.37
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.04,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:19
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.04,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.04,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.04,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.04,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.37
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.37
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.35
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.37
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.03,Roll:-2.37
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.37
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.03,Roll:-2.37
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.02,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.02,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.65,Pitch:-0.02,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.02,Roll:-2.37
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.02,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.02,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.02,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.65,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.02,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.02,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.65,Pitch:-0.02,Roll:-2.36
+Front Left:22
+Front Right:17
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.01,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.65,Pitch:-0.02,Roll:-2.35
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.02,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.02,Roll:-2.35
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.65,Pitch:-0.01,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.01,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.01,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.02,Roll:-2.35
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.01,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.01,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.01,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.01,Roll:-2.35
+Front Left:23
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.01,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.35
+Front Left:22
+Front Right:18
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.01,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.36
+Front Left:23
+Front Right:18
+Rear Left:22
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.35
+Front Left:22
+Front Right:18
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.01,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.36
+Front Left:23
+Front Right:18
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.36
+Front Left:23
+Front Right:18
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.36
+Front Left:22
+Front Right:18
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.01,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:22
+Rear Right:18
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.35
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.35
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.35
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.62,Pitch:-0.01,Roll:-2.35
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.34
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.01,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:22
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.35
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.35
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.01,Roll:-2.34
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.34
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.01,Roll:-2.35
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.01,Roll:-2.34
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.02,Roll:-2.34
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.01,Roll:-2.34
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.01,Roll:-2.34
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.02,Roll:-2.35
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.01,Roll:-2.34
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.02,Roll:-2.34
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.02,Roll:-2.35
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.01,Roll:-2.34
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.02,Roll:-2.35
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.02,Roll:-2.35
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.35
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.02,Roll:-2.35
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.63,Pitch:-0.02,Roll:-2.35
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.02,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.02,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.02,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.02,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.02,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.37
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.65,Pitch:-0.03,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.65,Pitch:-0.03,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.37
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.37
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.03,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.38
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.38
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.38
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.05,Roll:-2.37
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.05,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.38
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.38
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.36
+Front Left:24
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.37
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.37
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.37
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.36
+Front Left:24
+Front Right:17
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.36
+Front Left:24
+Front Right:17
+Rear Left:23
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.38
+Front Left:23
+Front Right:17
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.36
+Front Left:23
+Front Right:17
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:17
+Rear Left:23
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.36
+Front Left:23
+Front Right:16
+Rear Left:23
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:23
+Rear Right:17
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.37
+Front Left:24
+Front Right:17
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.36
+Front Left:24
+Front Right:17
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.36
+Front Left:24
+Front Right:16
+Rear Left:23
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.36
+Front Left:24
+Front Right:17
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.38
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:23
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.36
+Front Left:24
+Front Right:17
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.36
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.38
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.38
+Front Left:24
+Front Right:17
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.36
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.38
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.36
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.38
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.08,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.38
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.38
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.38
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.38
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.38
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.36
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.38
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.38
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.38
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.38
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.36
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.38
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.38
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.38
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.36
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.38
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.38
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.38
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:16
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.36
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:15
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.38
+Front Left:24
+Front Right:15
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.38
+Front Left:24
+Front Right:16
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.36
+Front Left:24
+Front Right:15
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:15
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.36
+Front Left:24
+Front Right:15
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.37
+Front Left:24
+Front Right:15
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.38
+Front Left:24
+Front Right:15
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.36
+Front Left:24
+Front Right:15
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:15
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:15
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.38
+Front Left:24
+Front Right:15
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.36
+Front Left:24
+Front Right:15
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:15
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.07,Roll:-2.37
+Front Left:24
+Front Right:15
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.38
+Front Left:24
+Front Right:15
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.37
+Front Left:24
+Front Right:15
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.38
+Front Left:24
+Front Right:15
+Rear Left:24
+Rear Right:15
+-----------------------------
+MPU values: Error:0,Yaw:-1.64,Pitch:-0.06,Roll:-2.38
+ov-

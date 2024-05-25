@@ -21,7 +21,6 @@ void loop() {
   struct IMU_Values imu_values = GetIMUvalues();
   if (receiverCommands.Error || receiverCommands.Throttle < THROTTLE_START_POINT || !receiverCommands.Armed || imu_values.Error)
   {
-    // Serial.println("Error in receiver or IMU values. Stopping motors");
     stopMotors();
     resetPidVariables();
     return;

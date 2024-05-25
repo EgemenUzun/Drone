@@ -44,15 +44,6 @@ double fix360degrees(double val) {
   }
 }
 
-double calculateYawError(struct ReceiverCommands receiverCommands, struct IMU_Values imu_values) {
-  double imuYawAngleChangeInDeltaTime = fix360degrees(imu_values.CurrentOrientation.YawAngle - imu_values.PreviousOrientation.YawAngle);
-  double imuYawAngleChangePerSecond = imuYawAngleChangeInDeltaTime / imu_values.DeltaTimeInSeconds;
-  double yawError = receiverCommands.YawAngleChange - imuYawAngleChangePerSecond;
-  yawError = constrain(yawError, -QUADCOPTER_MAX_YAW_ANGLE_CHANGE_PER_SECOND, QUADCOPTER_MAX_YAW_ANGLE_CHANGE_PER_SECOND);
-  yawError = map_double(yawError, -QUADCOPTER_MAX_YAW_ANGLE_CHANGE_PER_SECOND, QUADCOPTER_MAX_YAW_ANGLE_CHANGE_PER_SECOND, -ROLL_PITCH_CONTROL_SIGNAL_LIMIT, ROLL_PITCH_CONTROL_SIGNAL_LIMIT);
-  return yawError;    
-}
-
 struct MotorPowers reduceMotorPowers(MotorPowers motorPowers) { // to preserve balance if throttle limit exceeds the max value (180)
   int maxMotorPower = max(max(motorPowers.frontLeftMotorPower, motorPowers.frontRightMotorPower), max(motorPowers.rearLeftMotorPower, motorPowers.rearRightMotorPower));
   if (maxMotorPower > 180) {
@@ -69,7 +60,7 @@ struct MotorPowers calculateMotorPowers(struct ReceiverCommands receiverCommands
   // calculate orientation errors (error: difference between desired orientation and actual orientation)
   double rollError = receiverCommands.RollAngle - imu_values.CurrentOrientation.RollAngle;
   double pitchError = receiverCommands.PitchAngle - imu_values.CurrentOrientation.PitchAngle;
-  double yawError = calculateYawError(receiverCommands, imu_values);
+  double yawError =  receiverCommands.YawAngleChange - fix360degrees(imu_values.CurrentOrientation.YawAngle);
 
   // calculate control gains based on errors
   roll_control_signal = getControlSignal(rollError, KP_roll_pitch, KI_roll_pitch, KD_roll_pitch, roll_pid_i, roll_last_error, imu_values.DeltaTimeInSeconds);
