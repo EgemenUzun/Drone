@@ -10,12 +10,12 @@
 #define INTERRUPT_PIN 2
 
 //----------- IMU CALIBRATION -----------
-#define ACCEL_OFFSET_X -1332
-#define ACCEL_OFFSET_Y -1363
-#define ACCEL_OFFSET_Z 1084
-#define GYRO_OFFSET_X 80
+#define ACCEL_OFFSET_X -1266
+#define ACCEL_OFFSET_Y -1359
+#define ACCEL_OFFSET_Z 1094
+#define GYRO_OFFSET_X 78
 #define GYRO_OFFSET_Y -51
-#define GYRO_OFFSET_Z 21
+#define GYRO_OFFSET_Z 18
 
 //----------- TIMEOUTS -----------
 #define IMU_COMMUNICATION_TIMEOUT_IN_MILLISECONDS 100

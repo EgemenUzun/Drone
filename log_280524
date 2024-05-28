@@ -1,0 +1,4375 @@
+--- Terminal on COM7 | 115200 8-N-1
+--- Available filters and text transformations: colorize, debug, default, direct, hexlify, log2file, nocontrol, printable, send_on_enter, time
+--- More details at https://bit.ly/pio-monitor-filters
+--- Quit: Ctrl+C | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H
+YawAngle: -0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:15
+Front Right:5
+Ra R�:G��8U�� Right:6
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:15
+Front Right:15
+Rear Left:15
+Rear Right:15
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:17
+Front Right:17
+Rear Left:17
+Rear Right:17
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:24
+Front Right:23
+Rear Left:24
+Rear Right:23
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:27
+Front Right:26
+Rear Left:27
+Rear Right:26
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:31
+Front Right:31
+Rear Left:31
+Rear Right:31
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:.00
+Front Left:35
+Front Right:35
+Rear eft:35
+Rear Right:35
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:40
+Front Right:40
+Rear Left:40
+Rear Right:40
+-----------------------------
+YawAgle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:2
+Front Right:42
+Rear Left:42
+Rear Right:42
+----------------------------
+YaAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:42
+Front Right:42
+Rear Left:42
+Rear Right:42
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:43
+Front Right:42
+Rear Left:43
+Rear Right:4
+-------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:45
+Front Right:44
+Rear Left:45
+Rear Right:44
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:48
+Front Right:4
+Rear Lf:4
+Rear Right:48
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:52
+Front Right:52
+Rear Left:52
+Rear Right:52
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+FrontLef:5
+ront Right:54
+Rear Left:55
+Rear Right:55
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:56
+Front Right:56
+Rear Left:56
+Rear Right:56
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YawAngleChange: 0.00ywonrolsignal:0.00
+Front Left:61
+Front Right:61
+Rear Left:61
+Rear Right:61
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:65
+Front Right:64
+Rear Left:65
+Rear Right:64
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YwglS␐+�: 0.00
+yaw_control_signal:0.00
+Front Left:66
+Front Right:66
+Rear Left:66
+Rear Right:66
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:68
+Front Right:68
+Rear Left:68
+Rear Right:68
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Fntb�)␖�0
+Front Right:70
+Rear Left:70
+Rear Right:70
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:72
+Front Right:72
+Rear Left:72
+Rear Right:72
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_contolsignal:0.00
+Front Left:73
+Front Right:73
+Rear Left:73
+Rear Right:73
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:74
+Front Right:74
+Rear Left:74
+Rear Right:74
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YwAglChage: 0.00
+yaw_control_signal:0.00
+Front Left:75
+Front Right:75
+Rear Left:75
+Rear Right:75
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:76
+Front Right:75
+Rear Left:76
+Rear Right:75
+-----------------------------
+YawAngle:-.1
+awError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:76
+Front Right:75
+Rear Left:76
+Rear Right:75
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:76
+Front Right:75
+Rear Left:76
+Rear Right:75
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:76
+Front Right:75
+Rear Left:76
+Rear Right:75
+-----------------------------
+YawAngle:-0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:76
+Front Right:75
+Rear Left:76
+Rear Right:75
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:76
+Front Right:75
+Rear Left:76
+Rear Right:76
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:76
+Front Right:75
+Rear Left:76
+Rear Right:75
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:76
+Front Right:75
+Rear Left:76
+Rear Right:75
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:76
+Front Right:75
+Rear Left:76
+Rear Right:75
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:76
+Front Right:75
+Rear Left:76
+Rear Right:76
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:76
+Front Right:75
+Rear Left:76
+Rear Right:75
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:76
+Front Right:75
+Rear Left:76
+Rear Right:76
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:76
+Front Right:75
+Rear Left:76
+Rear Right:75
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:76
+Front Right:76
+Rear Left:76
+Rear Right:76
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_contrl_signal:0.00
+Front Left:77
+Front Right:76
+Rear Left:77
+Rear Right:76
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_ignal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:8
+Front Right:81
+Rear Left:81
+Rear Right:81
+-------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:81
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:81
+Rear Left:81
+RearRight:1
+----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:81
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Rgh:1RrLeft:82
+Rear Right:81
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:81
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+rotet1Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yawcnG��5��␕�:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:81
+-----------------------------
+Yawngle: -0.02
+yawError: 0.00
+YAge: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:81
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:81
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Lef:81
+Front Right:81
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+ywError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:81
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+------------------------�YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:81
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+earLet:1
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+FrontLet␇�j
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChang:0.0
+yw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yaEro:004YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YwAge: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:81
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_ontrol_signal:0.00
+Front Left:81
+Front Right:8
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:81
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:81
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:81
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:81
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:81
+----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:81
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Lef:8
+Rar Right:81
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81Frn Right:80
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:81
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_sinal0.0
+Front Left:81
+Front Right:81
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:81
+----------------------------
+awAngle: -0.03
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:81
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:81
+Rear Left81
+Rear Right:81
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Frnt Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Righ:0�������������������������Y�H�YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:81
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:8Re&␖b�:�j
+Rear Right:80
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Let814
+FDnt Right:80
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.04
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.00
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.04
+yawError: -15.48
+YawAngleChange: -15.51
+yaw_control_signal:-6.41
+Negative Yaw:-15.51
+-----------------------------
+Front Left:81
+Front Right:81
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: -0.04
+yawError: -24.49
+YawAngleChange: -24.53
+yaw_control_signal:-10.23
+Negative Yaw:-24.53
+-----------------------------
+Front Left:80
+Front Right:81
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: -0.04
+yawError: -44.33
+YawAngleChange: -44.37
+yaw_control_signal:-18.60
+Negative Yaw:-44.37
+----------------------------Frnt Left:80
+Front Right:82
+Rear Left:82
+Rear Right:79
+-----------------------------
+YawAngle: -0.04
+yawError: -65.98
+YawAngleChange: -66.01
+yaw_control_signal:-27.71
+Negative Yaw:-66.01
+-----------------------------
+Front Left:79
+Front Right:82
+Rear Left:83
+Rear Right:79
+-----------------------------
+YawAngle: -0.04
+yawError: -84.37
+YawAngleChange: -84.41
+yaw_control_signal:-35.44
+Negative Yaw:-84.41
+-----------------------------
+Front Left:79
+Front Right:83
+Rear Left:83
+Rear Right:78
+-----------------------------
+YawAngle: -0.04
+yawError: -103.85
+YawAngleChnge: -103.89
+yaw_control_signal:-4.6Cj
+eaive Yaw:-103.89
+-----------------------------
+Front Left:78
+Front Right:83
+Rear Left:84
+Rear Right:78
+-----------------------------
+YawAngle: -0.04
+yawError: -125.50
+YawAngleChange: -125.53
+yaw_control_signal:-52.71
+Negative Yaw:-125.53
+-----------------------------
+Front Left:78
+Front Right:84
+Rear Left:85
+Rear Righ:77
+-----------------------------
+YawAngle: -0.04
+yawError: -140.65
+YawAngleChange: -140.68
+yaw_control_signal:-59.14
+Negative Yaw:-140.68
+-----------------------------
+Front Left:77
+Front Right:84
+Rear Left:85
+Rear Right:77
+-----------------------------
+YawAngle: -0.0yEr�K:j��r��j
+YawAngleChange: -158.72
+yaw_control_signal:-66.73
+Negative Yaw:-158.72
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:85
+Rear Right:76
+-----------------------------
+YawAngle: -0.04
+yawError: -175.64
+YawAngleChange: -175.67
+yaw_control_signal:-73.77
+Negative Yaw-175.67
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:76
+-------------------------KI
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.43
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.43
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:76
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.43
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Rigt8
+ea Left:86
+Rear Right:76
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.52
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.34
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.43
+Negative Yaw:-19.6
+-------------------------
+Front Left:76
+Front Right:86
+Rear Left:86
+Rear Right:76
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yw_control_signal:-75.43
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Riht:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.43
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:86
+Rear Left:86
+Rear Right:76
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAnglehag: LS��j
+yaw_control_signal:-75.52
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.43
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:76
+-----------------------------
+YawAngle: -0.04
+yawError: -179.24
+YawAngleChange: -179.28
+yaw_control_signal:-75.28
+Negative Yaw:-179.28
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YaW����: -0.04
+yawError: -178.52
+YawAngleChange: -178.56
+yaw_control_signal:-74.98
+Negative Yaw:-178.56
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -178.16
+YawAngleChange: -178.20
+yaw_control_signal:-74.83
+Negative Yaw:-178.20
+----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:5
+----------------------------
+YawAngle: -0.04
+yawError: -178.15
+YawAngleChange: -178.20
+yaw_control_signal:-74.91
+Negaive Yaw:-178.20
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -178.15
+YawAngleChange: -178.20
+yaw_control_signal:-74.82
+Negative Yaw:-178.20
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:76
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.43
+Negative Yaw:-179.64
+-----------------------------
+Front ef:6
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.43
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.43
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.43
+NgaiveYa:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.43
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.43
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+aw'�u�U␐+��: -179.64
+yaw_control_signal:-75.34
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.52
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.43
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:76
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.43
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.43
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86RerRiht:76
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.43
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.52
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.43
+Negative Yaw:-179.64
+------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.3
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.43
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yawcntr�5��:-75.43
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.52
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+----KIjjjjjjjjjjjjjjjjjj
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.97
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.52
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:76
+-----------------------------
+YawAngle: -.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.43
+Negative Yaw:-179.64
+-----------------------------
+rontLeft:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.04
+yawError: -179.60
+YawAngleChange: -179.64
+yaw_control_signal:-75.43
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.05
+yawError: -179.59
+YawAngleChange: -179.64
+yaw_control_signal:-75.52
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.05
+yawError: -179.59
+YawAngleChange: -179.64
+yaw_contolsgnal:-75.52
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.05
+yawError: -179.59
+YawAngleChange: -179.64
+yaw_control_signal:-75.43
+Negative Yaw:-179.64
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.05
+yawError: -175.62
+YawAngleChange: -175.67
+yaw_control_signal:-73.59
+Negative Yaw:-175.67
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.05
+yawError: -167.32
+YawAngleChange: -167.37
+yaw_control_signal:-70.28
+Negative Yaw:-167.37
+-----------------------------
+Front Left:76
+Front Right:85
+Rear Left:86
+Rear Right:75
+-----------------------------
+YawAngle: -0.05
+yawError: -155.78
+YawAngleChange: -155.83
+yaw_control_signal:-66.29
+Negative Yaw:-155.83
+---------K��------------
+Front Left:77
+Front Right:85
+Rear Left:86
+Rear Right:76
+-----------------------------
+YawAngle: -0.05
+yawError: -143.52
+YawAngleChange: -143.57
+yaw_control_signal:-60.28
+Negative Yaw:-143.57
+-----------------------------
+Front Left:77
+Front Right:84
+Rear Left:85
+Rear Right:76
+-----------------------------
+YawAngle: -0.05
+yawError: -129.81
+YawAngleChange: -129.86
+yaw_control_signal:-54.59
+Negative Yaw:-129.86
+-----------------------------
+Front Left:77
+Front Right:84
+Rear Left:85
+Rear Right:76
+-----------------------------
+YawAngle: -0.05
+yawError: -125.48
+YawAngleChange -␑r��jA��}����ɽ�}ͥ����:-52.64
+Negative Yaw:-125.53
+-----------------------------
+Front Left:77
+Front Right:84
+Rear Left:85
+Rear Right:77
+-----------------------------
+YawAngle: -0.05
+yawError: -122.96
+YawAngleChange: -123.01
+yaw_control_signal:-51.64
+Negative Yaw:-123.01
+-----------------------------
+Front Left:77
+Front Right:84
+Rear Left:85
+Rear Right:77
+-----------------------------
+YawAngle: -0.06
+yawError: -120.42
+YawAngleChange: -120.48
+yaw_control_signal:-50.58
+Negative Yaw:-120.48
+-----------------------------
+Front Left:78
+Front Right:84
+Rear Left:84
+Rear Right:77
+-----------------------------
+YwAgl: -0.06
+yawError: -117.90
+YawAngleChange: -117.96
+yaw_control_signal:-49.52
+Negative Yaw:-117.96
+-----------------------------
+Front Left:78
+Front Right:83
+Rear Left:84
+Rear Right:77
+-----------------------------
+YawAngle: -0.06
+yawError: -116.10
+YawAngleChange: -116.15
+yaw_control_signal:-48.76
+Ngative Yaw:-116.15
+-----------------------------
+Front Left:78
+Front Right:83
+Rear Left:84
+Rear Right:77
+-------------------------
+YawAngle: -0.06
+yawError: -112.85
+YawAngleChange: -112.91
+yaw_control_signal:-47.40
+Negative Yaw:-112.91
+-----------------------------
+Front Left:78
+Front Right:83
+Rear Left:84
+Rear Right:77
+-----------------------------
+YawAngle: -0.06
+yawError: -108.52
+YawAngleChange: -108.58
+yaw_control_signal:-45.63
+Negative Yaw:-108.58
+----------------------------
+Front Left:78
+Front Right:83
+Rar Left:84
+Rear Right:77
+-----------------------------
+YawAngle: -0.06
+yawError: -102.03
+YawAngleChange: -102.08
+yawcontrol_signal:-42.85
+Negative Yaw:-102.08
+-----------------------------
+Fron Let:7
+Front Right:83
+Rear Left:84
+Rear Right:77
+-----------------------------
+YawAngle: -0.06
+ywError: -98.42
+YawAngleChange: -98.48
+yaw_control_signal:-41.34
+Negative Yaw:-98.48
+-----------------------------
+Front Left:78
+Front Right:83
+Rear Left:84
+Rear Right:77
+-----------------------------
+YawAngle: -0.06
+yawError: -95.90
+YawAngleChange: -95.95
+yaw_control_signal:-40.28
+Negative Yaw:-95.95
+----------------------------
+Front Left:78
+Front Right:83
+Rear Left:84
+Rear Right:78
+-----------------------------
+YawAngle: -0.06
+yawError: -91.21
+YawAngleChange: -91.26
+yaw_control_signal:-38.31
+Negativ a:-�$I�H������������������������������HFront Left:78
+Front Right:83
+Rear Left:84
+Rear Right:78
+-----------------------------
+YawAngle: -0.06
+yawError: -86.16
+YawAngleChange: -86.21
+yaw_control_signal:-36.19
+Negative Yaw:-86.21
+-----------------------------
+Front Left:78
+Front Right:82
+Rear Left:83
+Rear Right:78
+-----------------------------
+YawAngle: -0.06
+yawError: -74.97
+YawAngleChange: -75.03
+yaw_control_signal:-31.49
+Negative Yaw:-75.03
+-----------------------------
+Front Left:79
+Front Right:82
+Rear Left:83
+Rear Right:78
+-----------------------------
+YawAngle: -0.06
+yawError: -66.32
+YawAngleChange: -6.37
+ya_control_signal:-27.82
+Negative Yaw:-66.37
+-----------------------------
+Front Left:79
+Front Right:82
+Rear Left:83
+Rear Right:78
+-----------------------------
+YawAngle: -0.06
+yawError: -57.30
+YawAngleChange: -57.35
+yaw_control_signal:-24.07
+Negative Yaw:-57.35
+-----------------------------
+Front Left:79
+Front Right:82
+Rear Left:83
+Rear Right:79
+-----------------------------
+YawAngle: -0.06
+yawError: -52.97
+YawAngleChange: -53.03
+yaw_control_signal:-22.27
+Negative Yaw:-53.03
+-----------------------------
+Front Left:79
+Front Right:81
+Rear Left:82
+Rear Right:79
+-----------------------------
+YawAngle: -0.06
+yawError: -47.92
+YawAngleChange: -47.98
+yaw_control_signal:-20.10
+Negative Yaw:-47.98
+-----------------------------
+Front Left:80
+Front Right:81
+Rear Left:82
+Rear Right:79
+-----------------------------
+YawAngle: -0.06
+yawError: -39.62
+YawAngleChange: -39.68
+yaw_control_signal:-16.64
+Negative Yaw:-39.68
+-----------------------------
+Front Left:80
+Front Right:81
+Rear Left:82
+Rear Right:79
+-----------------------
+YawAngle: -0.06
+yawError: -32.77
+YawAngleChange: -32.83
+yaw_control_signal:-13.76
+Negative Yaw:-32.83
+-----------------------------
+Front Left:80
+Front Right:81
+Rear Left:82
+Rear Right:79
+-----------------------------
+YawAngle: -0.06
+yawError: -25.55
+YawAngleChange: -25.61
+yaw_control_signal:-10.73
+Negative Yaw:-25.61
+-----------------------------
+Front Left:80
+Front Right:81
+Rear Left:82
+Rear Right:79
+-----------------------------
+YawAngle: -0.06
+yawError: -16.54
+YawAngleChange: -16.59
+yaw_control_signal:-6.95
+Negative Yaw:-16.59
+-----------------------------Frn LR�8
+Front Right:81
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YaW��␖��'j�r��j
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.05
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.05
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------K�jj
+YawAngle: -0.05
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.05
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Rgt84---------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right0U�(.b���:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:82
+Rear Right:81
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+ront eft:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.05
+yawError: 0.00
+YawAngleChange: 0.0
+yw_cntrol_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:82
+Rear Right:81
+-----------------------------
+YawAngle: -0.05
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.05
+yawError: .0
+A␕�␅���������: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:82
+Rear Right:81
+-----------------------------
+awAnge:-.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+awAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:1
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80---------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:0RarLft82
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Fron ftG�jFont Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_otr��5����:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00YAns��+���: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YaAnle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:-0.34
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: -0.06
+yawError: 20.62
+YawAngleChange: 20.56
+yaw_control_signal:8.56
+Positive Yaw:20.56
+-----------------------------
+Front Left:82
+Front Right:79
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.06
+yawError: 26.39
+YawAngleChange: 26.33
+yaw_control_signal:11.02
+Positive Yaw:26.33
+-----------------------------
+Front Left:82
+Front Right:79
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.06
+yawQ.%'���	�j
+YawAngleChange: 32.83
+yaw_control_signal:13.79
+Positive Yaw:32.83
+-----------------------------
+Front Left:82
+Front Right:79
+Rear Left:80
+Rear Right:81
+-----------------------------
+YawAngle: -0.06
+yawError: 37.93
+YawAngleChange: 37.88
+yaw_control_signal:15.91
+Positive Yaw:37.88
+-----------------------------
+Front Left:82
+Front Right:79
+Rear Left:80
+Rear Right:81
+-----------------------------
+YawAngle: -0.06
+yawError: 41.54
+YawAngleChange: 41.48
+yaw_control_signal:17.43
+Positive Yaw:41.48
+-----------------------------
+Front Left:82
+Front Right:79
+Rear Left:80
+Rear Right:81
+-----------------------------
+YawAngle: -0.06
+yawError: 48.75
+YawAngleChange: 48.70
+yaw_control_signal:20.48
+Positive Yaw:48.70
+-----------------------------
+Front Left:82
+Front Right:79
+Rear Left:80
+Rear Right:81
+-----------------------------
+YawAngle: -0.06
+yawError: 54.89
+YawAngleChange: 54.83
+yaw_control_signal:23.08
+Positive Yaw:54.83
+-----------------------------
+Front Left:82
+Front Right:78
+Rear Left:80
+earRJ�:82
+-----------------------------
+YawAngle: -0.06
+yawError: 60.66
+YawAngleChange: 60.60
+yaw_control_signal:25.48
+PositiveYaw:60.60
+-----------------------------
+Front Left:83
+Front Right:78
+Rear Left:80
+Rear Right:2
+-----------------------------
+YawAngle: -0.06
+yawError: 66.80
+YawAngleChange: 66.73
+yaw_control_signal:28.02
+Positive Yaw:66.73
+-----------------------------
+Front Left:83
+Front Right:78
+Rear Left:79
+Rear Right:82
+-----------------------------
+YawAngle: -0.06
+yawError: 69.32
+YawAngleChange: 69.26
+yaw_control_signal:29.15
+Positive Yaw:69.26
+------------------------
+Front Left:83
+Front Right:78
+Rear Left:79
+Rear Right:82
+-----------------------------
+YawAngle: -0.06
+yawError: 72.93
+YawAngleChange: 72.87
+yaw_control_signal:30.63
+Positive Yaw:72.87
+-----------------------------
+Front Left:83
+Front Right:78
+Rear Left:79
+Rear Right:82
+-----------------------------
+YawAngle: -0.06
+yawError: 79.06
+YawAngleChange: 79.00
+yaw_control_signal:33.21
+Positive Yaw:79.00
+-----------------------------
+Front Left:83
+Front Right:78
+Rear Left:79
+Rear Right:82
+-----------------------------
+YawAngle: -0.06
+yawError: 86.28
+YawAngleChange: 86.21
+yaw_control_signal:36.4
+Po3�ٶYY��:86.21
+-----------------------------
+Front Left:83
+Front Right:78
+Rear Left:79
+Rear Right:83
+-----------------------------
+YawAngle: -0.06
+yawError: 90.60
+YawAngleChange: 90.54
+yaw_control_signal:38.05
+Positive Yaw:90.54
+-----------------------------
+Front Left:83
+Front Right:77
+Rear Left:79
+Rear Right:83
+-----------------------------
+YawAngle: -0.06
+yawError: 95.29
+YawAngleChange: 95.23
+yaw_control_signal:40.02
+Positive Yaw:95.23
+-----------------------------
+Front Left:84
+Front Right:77
+Rear Left:79
+RearRight:83
+-----------------------------
+YawAngle: -0.06
+yawError: 100.34
+YawAngleChange: 100.28
+yaw_control_signal:42.14
+Positive Yaw:100.28
+-----------------------------
+Front Left:84
+Front Right:77
+Rear Left:78
+Rear Right:83
+-----------------------------
+YawAngle: -0.06
+yawError: 105.75
+YawAngleChange: 105.69
+ya_control_signal:44.47
+Positive Yaw:105.69
+-----------------------------
+Front Left:8
+Font Right:77
+Rear Left:78
+Rear Right:83
+----------------------------
+YawAngle: -0.06
+yawError: 111.16
+YawAngleChange: 111.10
+yaw_control_signal:46.69
+Positive Yaw:111.10
+-----------------------------
+Front Left:84
+Front Right:77
+Rear Left:78
+Rear Right:83
+-----------------------------
+YawAngle: -0.06
+yawError: 114.77
+YawAngleChange: 114.71
+yaw_control_signal:48.14
+Positive Yaw:114.71
+-----------------------------
+Front Left:84
+Front Right:77
+Rear Left:78
+Rear Right:83
+-----------------------------
+YawAngle: -0.06
+yawError: 119.82
+YawAngleChange: 119.76
+yaw_control_signal:50.26
+Positive Yaw:119.76
+----------------------------
+Front Left:84
+Front Right:77
+Rar Lef:7
+Rear Right:84
+-----------------------------
+YawAngle: -0.06
+yawError: 123.78
+YwAngleChange: 123.73
+yaw_control_signal:52.05
+Positive Yaw:123.73
+-----------------------------
+Front Left:84
+Front Right:76
+Rear Left:78
+Rear Right:83
+-----------------------------
+YawAngle: -0.06
+yawError: 131.00
+YawAngleChange: 130.94
+yaw_control_signal:55.02
+Positive Yaw:130.94
+-----------------------------
+Front Left:85
+Front Right:76
+Rear Left:78
+Rear Right:84
+-----------------------------
+YawAngle: -0.06
+yawError: 134.24
+YawAngleChange: 134.19
+yaw_control_signal:56.38
+Positive Yaw:134.19
+-------------------�����HFront Left:85
+Front Right:76
+Rear Left:77
+Rear Right:84
+-----------------------------
+YawAngle: -0.06
+yawError: 139.29
+YawAngleChange: 139.24
+yaw_control_signal:58.50
+Positive Yaw:139.24
+-----------------------------
+Front Left:85
+Front Right:76
+Rear Left:78
+Rear Right:84
+-----------------------------
+YawAngle: -0.06
+yawError: 141.46
+YawAngleChange: 141.40
+yaw_control_signal:59.48
+Positive Yaw:141.40
+-----------------------------
+Front Left:85
+Front Right:76
+Rear Left:77
+Rear Right:84
+-----------------------------
+YawAngle: -0.06
+yawError: 142.18
+YawAgleChange: 142.12
+yaw_otr��5���[:59.72
+Positive Yaw:142.12
+-----------------------------
+Front Left:85
+Front Right:76
+Rear Left:77
+Rear Right:84
+-----------------------------
+YawAngle: -0.06
+yawError: 148.31
+YawAngleChange: 148.26
+yaw_control_signal:62.29
+Positive Yaw:148.26
+-----------------------------
+Front Left:85
+Front Right:76
+Rear Left:77
+Rear Right:84
+-----------------------------
+YawAngle: -0.06
+yawError: 156.97
+YawAngleChange: 156.91
+yaw_control_signal:65.93
+Positive Yaw:156.91
+-----------------------------
+Front Left:85
+Front Right:75
+Rear Left:77
+Rear Right:84
+-----------------------------
+YawAngl: 006
+awError: 161.66
+YawAngleChange: 161.60
+yaw_control_signal:67.90
+Positive Yaw:161.60
+-----------------------------
+Front Left:85
+Front Right:75
+Rear Left:76
+Rear Right:84
+-----------------------------
+YawAngle: -0.06
+yawError: 162.38
+YawAngleChange: 162.32
+yaw_control_signal:68.20
+Positive Yaw:162.32
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:77
+Rear Right:85
+-------------------------
+YawAngle: -0.06
+yawError: 164.18
+YawAngleChange: 164.13
+yaw_control_signal:68.96
+Positive Yaw:164.13
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.05
+yawError: 164.18
+YawAngleChange: 164.13
+yaw_control_signal:69.04
+Positive Yaw:164.13
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.05
+yawError: 168.15
+YawAngleChange: 168.10
+yaw_control_signal:70.62
+Positive Yaw:168.10
+-----------------------------
+Front Left:86
+Front ih:7Rar Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.05
+yawError: 174.28
+YawAngleChange: 174.23
+yaw_control_signal:73.20
+Positive Yaw:174.23
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.05
+yawError: 180.05
+YawAngleChange: 180.00
+yaw_control_signal:75.44
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.05
+yawError: 180.05
+YawAngleChange: 180.00
+yaw_control_signal:75.71
+Positive Yaw:100�␕K------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.05
+yawError: 180.05
+YawAngleChange: 180.00
+yaw_control_signal:75.71
+Positive Yaw:180.00
+-----------------------------
+Front eft:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.05
+yawError: 180.05
+YawAngleChange: 180.00
+yaw_control_signal:75.53
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.05
+yawError: 180.05
+YawAngleChange: 180.00
+yaw_control_signal:75.62
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+Yawngle: -0.04
+yawError: 180.04
+YawAngleChange: 180.00
+yaw_control_signal:75.71
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear ight:85
+-----------------------------
+YawAngle: -0.04
+yawError: 180.04
+YawAngleChange: 180.00
+yaw_control_signal:75.62
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YaAnge 0.04
+yawError: 180.04
+YawAngleChange: 180.00
+yaw_control_signal:75.53
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.04
+yawError: 180.04
+YawAngleChange: 180.00
+yaw_control_signal:75.62
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+--------------------------
+YawAngle: -0.04
+yawError: 180.04
+YawAngleChange: 180.00
+yaw_control_signal:75.71
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.04
+yawError: 180.04
+YawAngleChange: 180.00
+yaw_control_signal:75.62
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.04
+yawError: 180.04
+YawAngleChange: 180.00
+yaw_control_signal:75.71
+Positive Yaw:180.00
+-----------------------------
+Front Lf:6Frot Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.04
+yawError: 180.04
+YawAngleChange: 180.00
+yaw_control_signal:75.62
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.04
+yawError: 180.04
+YawAngleChange: 180.00
+yaw_control_signal:75.53
+Positive Ya:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.04
+yawEror: 180.04
+YawAngleChange: 180.00
+yaw_conrol_signal:75.62
+Positive Ya:0.�j
+A�����������������������������HFront Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.04
+yawError: 180.04
+YawAngleChange: 180.00
+yaw_control_signal:75.62
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.70
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+Yawnlehnge: 180.00
+yaw_control_signal:75.52
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.61
+Posiive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.61
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.70
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.52
+Positive Yaw:180.0
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear RighC:�j---------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.70
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.52
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle:-0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.70
+Positive Yaw:180.00
+----------------------------
+rntb�)'�j
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_sinal:75.61
+Positive Yaw:180.00
+----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.70
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.61
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.61
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.52
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+yawError 100
+YawAngleChange: 180.00
+yaw_control_signal:75.70
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.61
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.61
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.52
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.61
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Lef:6!U��Right:85
+-----------------------------
+YawAngle: -0.10
+yawError: 180.10
+YawAngleChange: 180.00
+yaw_control_signal:75.64
+Positive Yaw:180.00
+-----------------------------
+Front Left:97
+Front Right:88
+Rear Left:63
+Rear Right:74
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.79
+Positive Yaw:180.00
+-----------------------------
+Front Left:76
+Front Right:63
+Rear Left:88
+Rear Right:96
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.61
+Positive Yaw:180.0
+A����-------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.61
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.61
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00ywcotolsignal:75.61
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.61
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+yawError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.61
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.0
+yaErr␇�r��j
+YawAngleChange: 180.00
+yaw_control_signal:75.52
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.03
+awError: 180.03
+YawAngleChange: 180.00
+yaw_control_signal:75.61
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Frot Right:75
+Rear Left:76
+Rear Right:85
+--------------------------
+YawAngle: -0.02
+yawError: 180.02
+YawAngleChange: 180.00
+yaw_control_signal:75.70
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.02
+yawError: 180.02
+YawAngleChange: 180.00
+yaw_control_signal:75.61
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.02
+yawError: 180.02
+YawAngleChange: 180.00
+yaw_control_signal:75.61
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+arb�)��SHHU�� Right:85
+-----------------------------
+YawAngle: -0.02
+yawError: 180.02
+YawAngleChange: 180.00
+yaw_control_signal:75.52
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.02
+yawError: 180.02
+YawAngleChange: 180.00
+yaw_control_signal:75.52
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.02
+yawError: 180.0
+YawAngleChange: 180.00
+yaw_control_signal:75.70
+Positive Yaw:180.00
+--------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.02
+yawError: 180.02
+YawAngleChange: 180.00
+yaw_control_signal:75.61
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.02
+yawError: 180.02
+YawAngleChange: 180.00
+yaw_control_signal:75.61
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.02
+yawError: 180.02
+YawAngleChange: 180.00
+aw_onto_ignal:75.61
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.02
+yawError: 180.02
+YawAngleChange: 180.00
+yaw_control_signal:75.61
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.02
+yawError: 180.02
+YawAngleChange: 180.00
+yaw_control_signal:75.61
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAge:-002
+yawError: 180.02
+YawAngleChange: 180.00
+yaw_control_signal:75.61
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.02
+yawError: 180.02
+YawAngleChange: 180.00
+yaw_control_signal:75.61
+Positive Yaw:180.00
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+------------K������������
+YawAngle: -0.02
+yawError: 176.41
+YawAngleChange: 176.39
+yaw_control_signal:74.18
+Positive Yaw:176.39
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.02
+yawError: 176.41
+YawAngleChange: 176.39
+yaw_control_signal:74.09
+Positive Yaw:176.39
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:77
+Rear Right:85
+-----------------------------
+YawAngle: -0.01
+yawError: 175.32
+YawAngleChange: 175.31
+yaw_control_signal:73.72
+Positive Yaw:175.31
+-----------------------------
+Front Left:86Ft �ht:75
+Rear Left:76
+Rear Right:85
+-----------------------------
+YawAngle: -0.01
+yawError: 171.00
+YawAngleChange: 170.98
+yaw_control_signal:71.82
+Positive Yaw:170.98
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:77
+Rear Right:85
+-----------------------------
+YawAngle: -0.01
+yawError: 162.34
+YawAngleChange: 162.32
+yaw_control_signal:68.18
+Positive Yaw:162.32
+-----------------------------
+Front Left:86
+Front Right:75
+Rear Left:77
+Rear Right:85
+-----------------------------
+YawAngle: -0.01
+yawError: 150.80
+YawAngleChange: 150.78
+yaw_control_signa:63.26
+Positive Yaw:150.78
+-------------------------
+Front Left:86
+Front Right:76
+Rear Left:77
+Rear Right:85
+-----------------------------
+YawAngle: -0.01
+yawError: 142.14
+YawAngleChange: 142.12
+yaw_control_signal:59.70
+Positive Yaw:142.12
+-----------------------------
+Fron Left:85
+Front Right:76
+Rear Left:77
+Rear Right:84
+-----------------------------
+YawAngle: -0.01
+yawError: 140.33
+YawAngleChange: 140.32
+yaw_control_signal:59.01
+Positive Yaw:140.32
+-----------------------------
+Front Left:85
+Front Right:76
+Rear Left:77
+Rear Right:84
+-----------------------------
+YawAngle: -0.01
+yawError: 140.70
+YawAngleChne:108
+yaw_control_signal:59.02
+Positive Yaw:140.68
+-----------------------------
+Front Left:85
+Front Right:76
+Rear Left:77
+Rear Right:84
+-----------------------------
+YawAngle: -0.01
+yawError: 137.09
+YawAngleChange: 137.07
+yaw_control_signal:57.58
+Positive Yaw:137.07
+-----------------------------
+Front Left:85
+Front Right:76
+Rear Left:77
+Rear Right:84
+-----------------------------
+YawAngle: -0.01
+yawError: 129.87
+YawAngleChange: 129.86
+yaw_control_signal:54.48
+Positive Yaw:129.86
+-----------------------------
+Front Left:85
+Front Right:76
+Rear Left:78
+Rear Right:84
+-----------------------------
+YawAngle: -0.01
+yawError: 121.94
+YawAngleChange: 121.92
+yaw_control_signal:51.34
+Positive Yaw:121.92
+-----------------------------
+Front Left:85
+Front Right:77
+Rear Left:78
+Rear Right:83
+-----------------------------
+YawAngle: -0.01
+yawError: 111.12
+YawAngleChange: 111.10
+yaw_control_signal:46.67
+Positive Yaw:111.10
+-----------------------------
+Front Left:84
+Front Right:77
+Rear Left:78
+RearRhtGRH�����������������������������H�YawAngle: -0.01
+yawError: 99.57
+YawAngleChange: 99.56
+yaw_control_signal:41.82
+Positive Yaw:99.56
+-----------------------------
+Front Left:84
+Front Right:77
+Rear Left:79
+Rear Right:83
+-----------------------------
+YawAngle: -0.01
+yawError: 93.07
+YawAngleChange: 93.07
+yaw_control_signal:39.09
+Positive Yaw:93.07
+-----------------------------
+Front Left:84
+Front Right:78
+Rear Left:79
+Rear Right:83
+-----------------------------
+YawAngle: -0.01
+yawError: 86.94
+YawAngleChange: 86.93
+yaw_control_signal:36.47
+Positive Yaw:86.93
+-----------------------------
+Front Lft:84
+Front Right:78
+Rear Left:79
+Rear Right:83
+-----------------------------
+YawAngle: -0.01
+yawError: 78.28
+YawAngleChange: 78.28
+yaw_control_signal:32.92
+Positive Yaw:78.28
+-----------------------------
+Front Left:84
+Front Right:78
+Rear Left:79
+Rear Right:82
+-----------------------------
+YawAngle: -0.01
+yawError: 69.63
+YawAngleChange: 69.62
+yaw_control_signal:29.21
+Positive Yaw:69.62
+-----------------------------
+Front Left:83
+Front Right:78
+Rear Left:80
+Rear Right:82
+-----------------------------
+YawAngle: -0.01
+yawError: 61.69
+YawAngleChange: 61.68
+yaw_control_signal:25.94
+Postiv Ya:168
+-----------------------------
+Front Left:83
+Front Right:78
+Rear Left:80
+Rear Right:82
+-----------------------------
+YawAngle: -0.01
+yawError: 56.28
+YawAngleChange: 56.27
+yaw_control_signal:23.64
+Positive Yaw:56.27
+-----------------------------
+Front Left:83
+Front Right:79
+Rear Left:80
+Rear Right:82
+-----------------------------
+YawAngle: -0.01
+yawError: 47.62
+YawAngleChange: 47.62
+yaw_control_signal:20.00
+Positive Yaw:47.62
+-----------------------------
+Front Left:83
+Front Right:79
+Rear Left:80
+Rear Right:82
+-----------------------------
+YawAngle: -0.01
+yawError: 41.13
+aAnlehange: 41.12
+yaw_control_signal:17.27
+Positive Yaw:41.12
+-----------------------------
+Front Left:83
+Front Right:79
+Rear Left:80
+Rear Right:81
+-----------------------------
+YawAngle: -0.01
+yawError: 33.19
+YawAngleChange: 33.19
+yaw_control_signal:13.94
+Positive Yaw:33.19
+-----------------------------
+Front Left:82
+Front Right:79
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.01
+yawError: 27.78
+YawAngleChange: 27.78
+yaw_control_signal:11.68
+Positive Yaw:27.78
+-----------------------------
+Front Left:82
+Front Right:80
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.01
+yawError: 23.81
+YawAngleChange: 23.81
+yaw_control_signal:9.99
+Positive Yaw:23.81
+-----------------------------
+Front Left:82
+Front Right:79
+Rear Left:81
+Rear Right:81
+-----------------------------
+YawAngle: -0.01
+yawError: 19.12
+YawAngleChange: 19.12
+yaw_control_signal:8.02
+Positive Yaw:19.12
+----------------------------
+Front Left:82
+Front Right:80
+Rear Left:81
+Rear Right:81A�������������y�KKKKKKKKKK��YawAngle: 0.00
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:82
+Rear Right:81
+-----------------------------
+YawAngle: -0.01
+yawError: 0.00
+YawAngleChange: 0.0
+yawcontrol_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.00
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.00
+yawError: 0.00
+awnleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:82
+Rear Right:81
+-----------------------------
+YawAngle: 0.00
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.00
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Foteft:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.00
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: 0.00
+yawError: 0.00
+YawAngleChange: 0.00
+yw_ontG�ͥ��+�:0.37
+Front Left:82
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.00
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.00
+yawError: 0.00
+YaAglChage: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.00
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: 0.0yEr�K 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: 0.00
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+Y	�␅����: 0.00
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.00
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: 0.00
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.00
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: 0.00
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.00
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAgl: .00
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:82
+Rear Right:81
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle:0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----K�*-K�*--------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left8
+ U�ɲRJ�
+:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Rigt:�ja Left:82
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+ront eft:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yw_otro_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+awAlCange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAnge: 0.1yaError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: 0.01
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: 0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:81
+Rear Right:80
+-----------------------------
+YawAngle: 0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:81
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------
+YawAngle: 0.02
+yawError: 0.00
+YawAngleChange: 0.00
+yaw_control_signal:0.37
+Front Left:82
+Front Right:80
+Rear Left:82
+Rear Right:80
+-----------------------------

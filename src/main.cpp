@@ -29,48 +29,48 @@ void loop() {
   if (imu_values.NewDataAvailable) {
     struct MotorPowers motorPowers = calculateMotorPowers(receiverCommands, imu_values);
 
-    // if(receiverCommands.PitchAngle>1){
-    //   Serial.print("Positive Pitch:");
-    //   Serial.println(receiverCommands.PitchAngle);
-    //   Serial.println("-----------------------------");
-    // } else if(receiverCommands.PitchAngle<-1){
-    //   Serial.print("Negative Pitch:");
-    //   Serial.println(receiverCommands.PitchAngle);
-    //   Serial.println("-----------------------------");
-    // }
-    // if(receiverCommands.RollAngle>1){
-    //   Serial.print("Positive Roll:");
-    //   Serial.println(receiverCommands.RollAngle);
-    //   Serial.println("-----------------------------");
-    // } else if(receiverCommands.RollAngle<-1){
-    //   Serial.print("Negative Roll:");
-    //   Serial.println(receiverCommands.RollAngle);
-    //   Serial.println("-----------------------------");
-    // }
-    //  if(receiverCommands.YawAngleChange>1){
-    //   Serial.print("Positive Yaw:");
-    //   Serial.println(receiverCommands.YawAngleChange);
-    //   Serial.println("-----------------------------");
-    // } else if(receiverCommands.YawAngleChange<-1){
-    //   Serial.print("Negative Yaw:");
-    //   Serial.println(receiverCommands.YawAngleChange);
-    //   Serial.println("-----------------------------");
-    // }
-    // Serial.print("Front Left:");
-    // Serial.print(motorPowers.frontLeftMotorPower);
-    // Serial.println();
+    if(receiverCommands.PitchAngle>1){
+      Serial.print("Positive Pitch:");
+      Serial.println(receiverCommands.PitchAngle);
+      Serial.println("-----------------------------");
+    } else if(receiverCommands.PitchAngle<-1){
+      Serial.print("Negative Pitch:");
+      Serial.println(receiverCommands.PitchAngle);
+      Serial.println("-----------------------------");
+    }
+    if(receiverCommands.RollAngle>1){
+      Serial.print("Positive Roll:");
+      Serial.println(receiverCommands.RollAngle);
+      Serial.println("-----------------------------");
+    } else if(receiverCommands.RollAngle<-1){
+      Serial.print("Negative Roll:");
+      Serial.println(receiverCommands.RollAngle);
+      Serial.println("-----------------------------");
+    }
+     if(receiverCommands.YawAngleChange>1){
+      Serial.print("Positive Yaw:");
+      Serial.println(receiverCommands.YawAngleChange);
+      Serial.println("-----------------------------");
+    } else if(receiverCommands.YawAngleChange<-1){
+      Serial.print("Negative Yaw:");
+      Serial.println(receiverCommands.YawAngleChange);
+      Serial.println("-----------------------------");
+    }
+    Serial.print("Front Left:");
+    Serial.print(motorPowers.frontLeftMotorPower);
+    Serial.println();
 
-    // Serial.print("Front Right:");
-    // Serial.print(motorPowers.frontRightMotorPower);
-    // Serial.println();
+    Serial.print("Front Right:");
+    Serial.print(motorPowers.frontRightMotorPower);
+    Serial.println();
 
-    // Serial.print("Rear Left:");
-    // Serial.print(motorPowers.rearLeftMotorPower);
-    // Serial.println();
+    Serial.print("Rear Left:");
+    Serial.print(motorPowers.rearLeftMotorPower);
+    Serial.println();
 
-    // Serial.print("Rear Right:");
-    // Serial.println(motorPowers.rearRightMotorPower);
-    // Serial.println("-----------------------------");
+    Serial.print("Rear Right:");
+    Serial.println(motorPowers.rearRightMotorPower);
+    Serial.println("-----------------------------");
     spinMotors(motorPowers);
   }
 
