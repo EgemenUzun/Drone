@@ -10,9 +10,9 @@ double const QUADCOPTER_MAX_TILT_ANGLE = 20.00; // roll, pitch tilt angle limit 
 double const QUADCOPTER_MAX_YAW_ANGLE_CHANGE_PER_SECOND = 180.00;
 
 //----------- PID CONFIGURATION-----------
-double KP_roll_pitch = 0.30;
-double KI_roll_pitch = 0.10;
-double KD_roll_pitch = 0.10;
+double KP_roll_pitch = 0.20;
+double KI_roll_pitch = 0.08;
+double KD_roll_pitch = 0.11;
 
 double KP_yaw = 0.40;
 double KI_yaw = 0.50;
@@ -24,6 +24,10 @@ double ROLL_PITCH_CONTROL_SIGNAL_LIMIT = KP_roll_pitch * QUADCOPTER_MAX_TILT_ANG
 //----------- PID VARIABLES -----------
 double roll_pid_i, roll_last_error, pitch_pid_i, pitch_last_error, yaw_pid_i, yaw_last_error;
 double roll_control_signal, pitch_control_signal, yaw_control_signal;
+
+//----------- YAW TARGET VARIABLE -----------
+double target_yaw = 0;
+bool target_yaw_set = false;
 
 void resetPidVariables() {
   roll_pid_i = 0;
@@ -60,37 +64,28 @@ struct MotorPowers calculateMotorPowers(struct ReceiverCommands receiverCommands
   // calculate orientation errors (error: difference between desired orientation and actual orientation)
   double rollError = receiverCommands.RollAngle - imu_values.CurrentOrientation.RollAngle;
   double pitchError = receiverCommands.PitchAngle - imu_values.CurrentOrientation.PitchAngle;
-  double yawError =  receiverCommands.YawAngleChange - fix360degrees(imu_values.CurrentOrientation.YawAngle);
-  if (receiverCommands.YawAngleChange == 0) {
-    yawError = 0; 
-
+  
+  // Handle yaw control logic
+  double yawError;
+  if ( yawError = 0) {}
+  if (receiverCommands.YawAngle == 0) {
+    if (!target_yaw_set) {
+      target_yaw = imu_values.CurrentOrientation.YawAngle;
+      target_yaw_set = true;
+    }
+    yawError = target_yaw - fix360degrees(imu_values.CurrentOrientation.YawAngle);
+    if (yawError) {
+      yaw_pid_i = 0;
+    }
   } else {
-    yawError = yawError;
-    yaw_pid_i = 0;
+    target_yaw_set = false;
+    yawError = receiverCommands.YawAngle - fix360degrees(imu_values.CurrentOrientation.YawAngle);
   }
-
-  Serial.print("YawAngle: ");
-  Serial.println(imu_values.CurrentOrientation.YawAngle);
-  Serial.print("yawError: ");
-  Serial.println(yawError);
-  Serial.print("YawAngleChange: ");
-  Serial.println(receiverCommands.YawAngleChange);
-  // Serial.print("pitchError: ");
-  // Serial.println(pitchError);
-  // Serial.print("rollError: ");
-  // Serial.println(rollError);
 
   // calculate control gains based on errors
   roll_control_signal = getControlSignal(rollError, KP_roll_pitch, KI_roll_pitch, KD_roll_pitch, roll_pid_i, roll_last_error, imu_values.DeltaTimeInSeconds, QUADCOPTER_MAX_TILT_ANGLE);
   pitch_control_signal = getControlSignal(pitchError, KP_roll_pitch, KI_roll_pitch, KD_roll_pitch, pitch_pid_i, pitch_last_error, imu_values.DeltaTimeInSeconds, QUADCOPTER_MAX_TILT_ANGLE);
   yaw_control_signal = getControlSignal(yawError, KP_yaw, KI_yaw, KD_yaw, yaw_pid_i, yaw_last_error, imu_values.DeltaTimeInSeconds, QUADCOPTER_MAX_YAW_ANGLE_CHANGE_PER_SECOND);
-
-  Serial.print("yaw_control_signal:");
-  Serial.println(yaw_control_signal);
-  // Serial.print("pitch_control_signal:");
-  // Serial.println(pitch_control_signal);
-  // Serial.print("roll_control_signal:");
-  // Serial.println(roll_control_signal);
 
   // limit roll-pitch control signals
   roll_control_signal = map_double(roll_control_signal, -QUADCOPTER_MAX_TILT_ANGLE, QUADCOPTER_MAX_TILT_ANGLE, -ROLL_PITCH_CONTROL_SIGNAL_LIMIT, ROLL_PITCH_CONTROL_SIGNAL_LIMIT);
@@ -99,18 +94,12 @@ struct MotorPowers calculateMotorPowers(struct ReceiverCommands receiverCommands
   
   // calculate power for each motor
   struct MotorPowers motorPowers;
-  motorPowers.frontLeftMotorPower = round(receiverCommands.Throttle + roll_control_signal + pitch_control_signal + yaw_control_signal);
-  motorPowers.frontRightMotorPower = round(receiverCommands.Throttle - roll_control_signal + pitch_control_signal - yaw_control_signal);
-  motorPowers.rearLeftMotorPower = round(receiverCommands.Throttle + roll_control_signal - pitch_control_signal - yaw_control_signal);
-  motorPowers.rearRightMotorPower = round(receiverCommands.Throttle - roll_control_signal - pitch_control_signal + yaw_control_signal);
-
-  // motorPowers.frontLeftMotorPower = round(receiverCommands.Throttle + roll_control_signal + pitch_control_signal);
-  // motorPowers.frontRightMotorPower = round(receiverCommands.Throttle - roll_control_signal + pitch_control_signal);
-  // motorPowers.rearLeftMotorPower = round(receiverCommands.Throttle + roll_control_signal - pitch_control_signal);
-  // motorPowers.rearRightMotorPower = round(receiverCommands.Throttle - roll_control_signal - pitch_control_signal);
+  motorPowers.frontLeftMotorPower = round(receiverCommands.Throttle + roll_control_signal + pitch_control_signal - yaw_control_signal);
+  motorPowers.frontRightMotorPower = round(receiverCommands.Throttle - roll_control_signal + pitch_control_signal + yaw_control_signal);
+  motorPowers.rearLeftMotorPower = round(receiverCommands.Throttle + roll_control_signal - pitch_control_signal + yaw_control_signal);
+  motorPowers.rearRightMotorPower = round(receiverCommands.Throttle - roll_control_signal - pitch_control_signal - yaw_control_signal);
 
   motorPowers = reduceMotorPowers(motorPowers);
 
   return motorPowers;
 }
-

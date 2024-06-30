@@ -21,6 +21,25 @@ void loop() {
   struct IMU_Values imu_values = GetIMUvalues();
   if (receiverCommands.Error || receiverCommands.Throttle < THROTTLE_START_POINT || !receiverCommands.Armed || imu_values.Error)
   {
+
+    // Serial.print("MPU values: ");
+    // Serial.print("Error:");
+    // Serial.print(imu_values.Error);
+    // Serial.print(",");
+
+    // // Serial.println("----------Controller------------");
+    // Serial.print("Yaw Ref:");
+    // Serial.print(receiverCommands.YawAngle);
+    // Serial.print(",");
+
+    // Serial.print("Pitch Ref:");
+    // Serial.print(receiverCommands.PitchAngle);
+    // Serial.print(",");
+
+    // Serial.print("Roll Ref:");
+    // Serial.print(receiverCommands.RollAngle);
+    // Serial.println();
+    
     stopMotors();
     resetPidVariables();
     return;
@@ -47,30 +66,43 @@ void loop() {
       Serial.println(receiverCommands.RollAngle);
       Serial.println("-----------------------------");
     }
-     if(receiverCommands.YawAngleChange>1){
+     if(receiverCommands.YawAngle>1){
       Serial.print("Positive Yaw:");
-      Serial.println(receiverCommands.YawAngleChange);
+      Serial.println(receiverCommands.YawAngle);
       Serial.println("-----------------------------");
-    } else if(receiverCommands.YawAngleChange<-1){
+    } else if(receiverCommands.YawAngle<-1){
       Serial.print("Negative Yaw:");
-      Serial.println(receiverCommands.YawAngleChange);
+      Serial.println(receiverCommands.YawAngle);
       Serial.println("-----------------------------");
     }
-    Serial.print("Front Left:");
+    Serial.print("MPU values: ");
+    Serial.print("Yaw:");
+    Serial.print(imu_values.CurrentOrientation.YawAngle);
+    Serial.print(",");
+
+    Serial.print("Pitch:");
+    Serial.print(imu_values.CurrentOrientation.PitchAngle);
+    Serial.print(",");
+
+    Serial.print("Roll:");
+    Serial.print(imu_values.CurrentOrientation.RollAngle);
+    Serial.print(",");
+
+    Serial.print("FrL:");
     Serial.print(motorPowers.frontLeftMotorPower);
-    Serial.println();
+    Serial.print(",");
 
-    Serial.print("Front Right:");
+    Serial.print("FrR:");
     Serial.print(motorPowers.frontRightMotorPower);
-    Serial.println();
+    Serial.print(",");
 
-    Serial.print("Rear Left:");
+    Serial.print("ReL:");
     Serial.print(motorPowers.rearLeftMotorPower);
-    Serial.println();
+    Serial.print(",");
 
-    Serial.print("Rear Right:");
+    Serial.print("ReR:");
     Serial.println(motorPowers.rearRightMotorPower);
-    Serial.println("-----------------------------");
+    Serial.println();
     spinMotors(motorPowers);
   }
 
@@ -107,20 +139,5 @@ void loop() {
   // Serial.print(v.ChannelValues[3]);
   // Serial.println();
   // delay(100);
-  // Serial.print("MPU values: ");
-  // Serial.print("Error:");
-  // Serial.print(imu_values.Error);
-  // Serial.print(",");
 
-  // Serial.print("Yaw:");
-  // Serial.print(imu_values.CurrentOrientation.YawAngle);
-  // Serial.print(",");
-
-  // Serial.print("Pitch:");
-  // Serial.print(imu_values.CurrentOrientation.PitchAngle);
-  // Serial.print(",");
-
-  // Serial.print("Roll:");
-  // Serial.print(imu_values.CurrentOrientation.RollAngle);
-  // Serial.println();
 }

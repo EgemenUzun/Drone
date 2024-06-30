@@ -10,12 +10,12 @@
 #define INTERRUPT_PIN 2
 
 //----------- IMU CALIBRATION -----------
-#define ACCEL_OFFSET_X -1266
-#define ACCEL_OFFSET_Y -1359
-#define ACCEL_OFFSET_Z 1094
-#define GYRO_OFFSET_X 78
-#define GYRO_OFFSET_Y -51
-#define GYRO_OFFSET_Z 18
+#define ACCEL_OFFSET_X -1394
+#define ACCEL_OFFSET_Y -1265
+#define ACCEL_OFFSET_Z 1086
+#define GYRO_OFFSET_X 78 
+#define GYRO_OFFSET_Y -57
+#define GYRO_OFFSET_Z 14
 
 //----------- TIMEOUTS -----------
 #define IMU_COMMUNICATION_TIMEOUT_IN_MILLISECONDS 100
@@ -89,10 +89,9 @@ struct IMU_Values GetIMUvalues() {
     mpu.dmpGetQuaternion(&q, fifoBuffer);
     mpu.dmpGetGravity(&gravity, &q);
     mpu.dmpGetYawPitchRoll(ypr, &q, &gravity);
-
-    o.CurrentOrientation.YawAngle = ypr[0] * 180 / M_PI;
-    o.CurrentOrientation.RollAngle = ypr[1] * 180 / M_PI;
-    o.CurrentOrientation.PitchAngle = ypr[2] * 180 / M_PI * -1; // -1 is for changing rotation in order to align with receiver values 
+    o.CurrentOrientation.RollAngle = ypr[1] * 180 / M_PI * -1; // -1 is for changing rotation in order to align with receiver values 
+    o.CurrentOrientation.PitchAngle = ypr[2] * 180 / M_PI;
+    o.CurrentOrientation.YawAngle = ypr[0] * 180 / M_PI * -1; // -1 is for changing rotation in order to align with receiver values ;
     o.PreviousOrientation = previousOrientation;
     o.NewDataAvailable = true;
     o.DeltaTimeInSeconds = delta_time_in_seconds;
